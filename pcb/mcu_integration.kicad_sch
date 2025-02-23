@@ -3806,126 +3806,6 @@
 				)
 			)
 		)
-		(symbol "power:+5V"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+5V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+5V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+5V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+5V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_names
@@ -4544,16 +4424,6 @@
 			(type default)
 		)
 		(uuid "0e99813d-edc5-4e01-89a6-de1b17b38bf9")
-	)
-	(wire
-		(pts
-			(xy 232.41 54.61) (xy 232.41 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0eaee37c-5f58-4191-bf04-4c7f81f4a99f")
 	)
 	(wire
 		(pts
@@ -5557,7 +5427,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 52.07) (xy 222.25 52.07)
+			(xy 231.14 52.07) (xy 222.25 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6078,7 +5948,7 @@
 		(uuid 26218cb8-7300-4a52-b566-7f665393f25e)
 	)
 	(rectangle
-		(start 184.15 118.11)
+		(start 184.15 116.586)
 		(end 283.21 163.83)
 		(stroke
 			(width 0)
@@ -6149,7 +6019,7 @@
 	)
 	(text "Temperature Sensor"
 		(exclude_from_sim no)
-		(at 202.438 115.57 0)
+		(at 202.692 113.792 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -6354,22 +6224,22 @@
 	)
 	(global_label "3.3V Output"
 		(shape input)
-		(at 232.41 54.61 270)
+		(at 231.14 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "01b86dc4-438e-48f1-9a4d-4987ba89bafa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.41 68.9041 90)
+			(at 245.4341 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6836,6 +6706,28 @@
 			)
 		)
 	)
+	(global_label "+5V_EXT"
+		(shape input)
+		(at 276.86 128.27 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ea7327a5-b93a-49f9-98e6-0d53a7b4e629")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.86 117.1206 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ADC1_IN1_OPAMP_NOSHD"
 		(shape input)
 		(at 127 39.37 0)
@@ -6933,7 +6825,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01781056-12ba-43e5-b5fd-5d12afb6c461")
-		(property "Reference" "H4"
+		(property "Reference" "M4"
 			(at 218.694 100.33 90)
 			(effects
 				(font
@@ -6984,7 +6876,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "H4")
+					(reference "M4")
 					(unit 1)
 				)
 			)
@@ -7701,7 +7593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3518f0b8-a180-4880-9029-e151a4054091")
-		(property "Reference" "H2"
+		(property "Reference" "M2"
 			(at 218.44 87.6299 90)
 			(effects
 				(font
@@ -7752,7 +7644,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "H2")
+					(reference "M2")
 					(unit 1)
 				)
 			)
@@ -8289,7 +8181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "528547a9-6137-45a7-b6fb-69dfd03dd2c8")
-		(property "Reference" "H3"
+		(property "Reference" "M3"
 			(at 218.44 93.9799 90)
 			(effects
 				(font
@@ -8340,7 +8232,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "H3")
+					(reference "M3")
 					(unit 1)
 				)
 			)
@@ -8582,7 +8474,7 @@
 		(dnp no)
 		(uuid "673d76ac-1162-4ced-b54f-3e86ad58e055")
 		(property "Reference" "C27"
-			(at 214.63 54.61 0)
+			(at 207.772 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8591,7 +8483,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 214.63 57.15 0)
+			(at 207.772 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10051,72 +9943,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 276.86 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc39d53e-1c53-4d11-b8de-111be0d35807")
-		(property "Reference" "#PWR079"
-			(at 276.86 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 276.86 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 276.86 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 276.86 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 276.86 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d249c9eb-04b2-4358-bab9-bc17749b7c7a")
-		)
-		(instances
-			(project "mcu_integration"
-				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "#PWR079")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 266.7 44.45 0)
@@ -10280,8 +10106,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea9cbcd4-8b7f-4600-8a5d-a6f7c2496d5c")
-		(property "Reference" "H1"
-			(at 219.456 81.2799 90)
+		(property "Reference" "M1"
+			(at 218.44 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10290,7 +10116,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 219.456 83.8199 90)
+			(at 218.44 83.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10331,7 +10157,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "H1")
+					(reference "M1")
 					(unit 1)
 				)
 			)
