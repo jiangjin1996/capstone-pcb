@@ -7762,7 +7762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "capstone:SOIC127P600X175-8N"
 			(at 261.62 143.18 0)
 			(effects
 				(font
@@ -8104,7 +8104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 228.6 111.252 90)
 			(effects
 				(font
@@ -8243,7 +8243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 179.07 52.578 90)
 			(effects
 				(font
@@ -8698,7 +8698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 184.15 84.582 90)
 			(effects
 				(font
@@ -8831,7 +8831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "capstone:SOIC127P600X175-8N"
 			(at 252.73 178.74 0)
 			(effects
 				(font
@@ -9703,7 +9703,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 189.738 62.23 90)
 			(effects
 				(font
