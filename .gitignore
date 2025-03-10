@@ -31,3 +31,4 @@ gerbers
 gerber
 *.zip
 orders
+*.lck
