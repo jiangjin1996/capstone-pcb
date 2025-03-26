@@ -6194,7 +6194,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 205.74 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6205,7 +6204,6 @@
 	)
 	(label "SPI2_CS_NSS"
 		(at 205.74 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6216,7 +6214,6 @@
 	)
 	(label "HSE_OSC_OUT"
 		(at 67.31 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6227,7 +6224,6 @@
 	)
 	(label "USART1_TX"
 		(at 119.38 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6238,7 +6234,6 @@
 	)
 	(label "HSE_OSC_IN"
 		(at 67.31 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6249,7 +6244,6 @@
 	)
 	(label "SPI2_CS_NSS"
 		(at 119.38 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6260,7 +6254,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 205.74 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6271,7 +6264,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 119.38 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6282,7 +6274,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 119.38 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6293,7 +6284,6 @@
 	)
 	(label "SWCLK"
 		(at 119.38 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6304,7 +6294,6 @@
 	)
 	(label "USART1_RX"
 		(at 119.38 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6315,7 +6304,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 276.86 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6326,7 +6314,6 @@
 	)
 	(label "BOOT0"
 		(at 68.58 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6337,7 +6324,6 @@
 	)
 	(label "NRST"
 		(at 73.66 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6348,7 +6334,6 @@
 	)
 	(label "SWDIO"
 		(at 119.38 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6359,7 +6344,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 119.38 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10270,7 +10254,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "capstone:SOD-323_1P7X1P25_ONS"
 			(at 217.17 144.78 0)
 			(effects
 				(font
@@ -10767,7 +10751,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "capstone:SOD-323_1P7X1P25_ONS"
 			(at 190.5 151.13 0)
 			(effects
 				(font
