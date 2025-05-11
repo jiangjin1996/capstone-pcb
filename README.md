@@ -50,6 +50,16 @@ Order from JLC (1 week delivery), Order from Mouser/Digikey (2-4 day delivery) -
 
 I recommend to use the parts list available from JLCPCB or PCBWay to assemble as much of the board for you as possible, it saves alot of time but honestly building it by hand it also not that bad. Either is fine.
 
+JLC ordering tips:
+1. Search for JLC production toolkit to generate the BOM, part placement file.
+2. Generate the gerber files with time stamps in the folder name to avoid confusion (only gerber is a really bad name)
+3. and do not forget to generate the drill file and put it into the gerber folder(you don't need the toolkit for this)
+4. You can hand pick components on JLC if the system cannot find them automatically
+5. Double check the 3d model pops up after the components are selected because sometimes the auto selected parts can be the wrong ones
+6. Ask for boarding cleaning on the first page of ordering
+7. Select add paste for unpopulated pad & step stencil opening for easier installation in case JLC doesn't have the components? (Not sure about this but we will see)
+8. These might apply to other manufacturers as well
+
 ## Resources
 
 [KiCad 6 STM32 PCB Design Full Tutorial - Phil's Lab #65](https://www.youtube.com/watch?v=aVUqaB0IMh4)
