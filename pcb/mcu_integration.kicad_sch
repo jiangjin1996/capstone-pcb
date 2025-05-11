@@ -12,7 +12,7 @@
 		(comment 2 "Optional, Develop parts not needed for final design")
 	)
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x06"
+		(symbol "Connector_Generic:Conn_01x05"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -26,8 +26,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x06"
-				(at 0 -10.16 0)
+			(property "Value" "Conn_01x05"
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -52,7 +52,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -79,18 +79,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x06_1_1"
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Conn_01x05_1_1"
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
@@ -148,7 +137,7 @@
 				)
 				(rectangle
 					(start -1.27 6.35)
-					(end 1.27 -8.89)
+					(end 1.27 -6.35)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -240,24 +229,6 @@
 						)
 					)
 					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4430,10 +4401,6 @@
 		(uuid "ad72191c-79b4-40db-8cb8-dffb0d533aac")
 	)
 	(no_connect
-		(at 163.83 62.23)
-		(uuid "b949981f-c0be-40db-9e30-9a3c1d85ba96")
-	)
-	(no_connect
 		(at 116.84 105.41)
 		(uuid "bde00166-1176-4d70-921d-d292dda83223")
 	)
@@ -4554,16 +4521,6 @@
 			(type default)
 		)
 		(uuid "0f1b56bf-ae3f-456d-a8f7-18793b196b7f")
-	)
-	(wire
-		(pts
-			(xy 162.56 74.93) (xy 163.83 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f6a0ce2-4d8b-433f-aedc-aa041390062a")
 	)
 	(wire
 		(pts
@@ -5127,7 +5084,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 77.47) (xy 162.56 74.93)
+			(xy 165.1 57.15) (xy 162.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -5294,6 +5251,16 @@
 			(type default)
 		)
 		(uuid "7c04bf71-68da-4c1c-806a-b7fd0735bc8c")
+	)
+	(wire
+		(pts
+			(xy 162.56 57.15) (xy 162.56 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d3c6a45-b8c1-4bd4-9b76-060883590c02")
 	)
 	(wire
 		(pts
@@ -5504,6 +5471,16 @@
 			(type dash)
 		)
 		(uuid "9dae44b5-e40d-498c-b1b8-c16456ad6f91")
+	)
+	(wire
+		(pts
+			(xy 163.83 62.23) (xy 162.56 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e61fdab-8e1e-4759-82bb-7f7c033c3e26")
 	)
 	(wire
 		(pts
@@ -6194,7 +6171,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 205.74 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6205,7 +6181,6 @@
 	)
 	(label "SPI2_CS_NSS"
 		(at 205.74 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6216,7 +6191,6 @@
 	)
 	(label "HSE_OSC_OUT"
 		(at 67.31 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6227,7 +6201,6 @@
 	)
 	(label "USART1_TX"
 		(at 119.38 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6238,7 +6211,6 @@
 	)
 	(label "HSE_OSC_IN"
 		(at 67.31 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6249,7 +6221,6 @@
 	)
 	(label "SPI2_CS_NSS"
 		(at 119.38 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6260,7 +6231,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 205.74 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6271,7 +6241,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 119.38 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6282,7 +6251,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 119.38 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6293,7 +6261,6 @@
 	)
 	(label "SWCLK"
 		(at 119.38 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6304,7 +6271,6 @@
 	)
 	(label "USART1_RX"
 		(at 119.38 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6315,7 +6281,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 276.86 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6326,7 +6291,6 @@
 	)
 	(label "BOOT0"
 		(at 68.58 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6337,7 +6301,6 @@
 	)
 	(label "NRST"
 		(at 73.66 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6348,7 +6311,6 @@
 	)
 	(label "SWDIO"
 		(at 119.38 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6359,7 +6321,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 119.38 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7596,89 +7557,6 @@
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
-		(at 168.91 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2d4efef1-9c28-4148-a846-b2bf77a9d813")
-		(property "Reference" "J_SWD+UART1"
-			(at 171.45 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x06"
-			(at 171.45 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
-			(at 168.91 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 168.91 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9bbe853-cb94-4df9-b336-a9af07e6e56b")
-		)
-		(pin "2"
-			(uuid "21c1a1f1-b65c-4468-9d3c-bc6ca1574acc")
-		)
-		(pin "3"
-			(uuid "f31b7054-37c4-47f8-8509-62a1d99edb7b")
-		)
-		(pin "4"
-			(uuid "7bea749d-2db8-4799-9454-4209d04e3cd2")
-		)
-		(pin "5"
-			(uuid "e0de8619-fb36-4664-95c6-48a99c660ac0")
-		)
-		(pin "6"
-			(uuid "55e0f349-3b97-4919-9fe2-a4fbfba9d7dc")
-		)
-		(instances
-			(project "mcu_integration"
-				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
-					(reference "J_SWD+UART1")
 					(unit 1)
 				)
 			)
@@ -9703,7 +9581,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 77.47 0)
+		(at 165.1 57.15 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9712,7 +9590,7 @@
 		(fields_autoplaced yes)
 		(uuid "a29f09e2-8a0a-4216-bc43-1d6bfefdce14")
 		(property "Reference" "#PWR013"
-			(at 162.56 83.82 0)
+			(at 171.45 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9721,7 +9599,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 82.55 0)
+			(at 170.18 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9729,7 +9607,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 77.47 0)
+			(at 165.1 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9738,7 +9616,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 77.47 0)
+			(at 165.1 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9747,7 +9625,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 77.47 0)
+			(at 165.1 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,6 +9980,85 @@
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x05")
+		(at 168.91 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d371d0ae-1834-4c2a-abe0-f102bf18c1ad")
+		(property "Reference" "J_SWD+UART1"
+			(at 171.45 66.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "J_SWD+UART1"
+			(at 171.45 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+			(at 168.91 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 168.91 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "610c5d3c-4d4a-4070-befe-0940710c07d4")
+		)
+		(pin "3"
+			(uuid "82e71af6-bc4a-4919-b2d3-8aecc1b52843")
+		)
+		(pin "4"
+			(uuid "c9cf19a6-fcab-41be-a0e5-bd268ac974c1")
+		)
+		(pin "2"
+			(uuid "5e2cb1d5-dcfa-443d-9dcd-0fcb7cc3de2f")
+		)
+		(pin "5"
+			(uuid "0a6f744c-612e-4473-9264-2f347e818d98")
+		)
+		(instances
+			(project "mcu_integration"
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "J_SWD+UART1")
 					(unit 1)
 				)
 			)
