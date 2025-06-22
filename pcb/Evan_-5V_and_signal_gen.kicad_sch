@@ -6428,7 +6428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "capstone:T495D"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 173.66 45.72 0)
 			(effects
 				(font
@@ -7819,7 +7819,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capstone:T495D"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at -69.266 38.862 0)
 			(effects
 				(font
