@@ -1399,6 +1399,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "GND_5"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_5_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_5_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "MCU_ST_STM32F1:STM32F103RBTx"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3047,6 +3148,88 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "capstone:AD844_SHIELD"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AD844_SHIELD_0_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 2.54 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AD844_SHIELD_1_1"
+				(pin input line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "capstone:DM3BT-DSF-PEJS"
 			(pin_names
 				(offset 0.254)
@@ -3560,6 +3743,88 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "capstone:FOD814_SHIELD"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FOD814_SHIELD_0_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 2.54 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FOD814_SHIELD_1_1"
+				(pin input line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "capstone:LM35DM"
 			(pin_names
 				(offset 0.254)
@@ -3824,6 +4089,88 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "capstone:REF192_SHIELD"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "REF192_SHIELD_0_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 2.54 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "REF192_SHIELD_1_1"
+				(pin input line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4161,7 +4508,7 @@
 	)
 	(rectangle
 		(start 201.93 78.74)
-		(end 237.49 109.982)
+		(end 230.378 105.41)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4182,6 +4529,18 @@
 			(type none)
 		)
 		(uuid 3e4f9211-1b5d-4640-a94b-ef1a93e4a11b)
+	)
+	(rectangle
+		(start 242.062 78.994)
+		(end 282.194 105.664)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6468504f-7371-4fc1-a405-2b85dc0f41b4)
 	)
 	(rectangle
 		(start 201.422 20.066)
@@ -4240,6 +4599,18 @@
 			(justify left bottom)
 		)
 		(uuid "4dbcb106-3c25-4163-acb6-7e477a46f13b")
+	)
+	(text "Shields"
+		(exclude_from_sim no)
+		(at 248.666 76.708 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "9b205e0c-a0d6-4f11-82a6-78ce2d252677")
 	)
 	(text "Temperature Sensor"
 		(exclude_from_sim no)
@@ -4523,6 +4894,10 @@
 		(uuid "2bee935a-4e31-462f-b9ee-8ae9064f92bd")
 	)
 	(no_connect
+		(at 204.47 88.9)
+		(uuid "324e6adc-ab03-4056-9d87-b20461877c7b")
+	)
+	(no_connect
 		(at 265.43 35.56)
 		(uuid "37f8b21a-60e1-4832-b0b8-1c16d362ae5f")
 	)
@@ -4559,8 +4934,16 @@
 		(uuid "573ddc47-6bc9-44cc-8ce5-4bbc56833cb4")
 	)
 	(no_connect
+		(at 204.47 82.55)
+		(uuid "597c5545-aa8b-42b6-9927-bfba36817cd3")
+	)
+	(no_connect
 		(at 116.84 90.17)
 		(uuid "6175d276-b338-4ffb-89c4-8d9d9111a577")
+	)
+	(no_connect
+		(at 204.47 101.6)
+		(uuid "6b0eafb3-f300-491a-85de-e921d524efff")
 	)
 	(no_connect
 		(at 81.28 87.63)
@@ -4609,6 +4992,10 @@
 	(no_connect
 		(at 116.84 92.71)
 		(uuid "cd7ab8bb-24ae-4323-bcfb-71b0ef4a1a2c")
+	)
+	(no_connect
+		(at 204.47 95.25)
+		(uuid "cff86a0c-b505-40f5-bfaf-d885d0f7ebe7")
 	)
 	(no_connect
 		(at 116.84 102.87)
@@ -5071,6 +5458,16 @@
 			(type default)
 		)
 		(uuid "49c0dfd6-50c0-444d-9e77-2d8ff835bb86")
+	)
+	(wire
+		(pts
+			(xy 254 87.63) (xy 254 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c39d4ba-9d7e-4c9a-b25d-2338ef14d678")
 	)
 	(wire
 		(pts
@@ -5582,6 +5979,16 @@
 		)
 		(uuid "9c48621f-1386-4560-99bb-c7ef9c845a1e")
 	)
+	(wire
+		(pts
+			(xy 252.73 87.63) (xy 254 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb857bf-1c86-413c-8303-ff8b19f0fb2f")
+	)
 	(polyline
 		(pts
 			(xy 63.5 113.03) (xy 63.5 52.07)
@@ -5802,6 +6209,16 @@
 		)
 		(uuid "b9c9a28b-1292-4599-b047-c9157c44a6db")
 	)
+	(wire
+		(pts
+			(xy 279.4 87.63) (xy 279.4 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba2c43dc-9a55-4c32-a319-67aa787766fb")
+	)
 	(polyline
 		(pts
 			(xy 13.97 52.07) (xy 13.97 113.03)
@@ -5914,6 +6331,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 87.63) (xy 279.4 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d79ea7c7-cbe6-4262-91fa-ff567573eeee")
+	)
+	(wire
+		(pts
 			(xy 116.84 82.55) (xy 119.38 82.55)
 		)
 		(stroke
@@ -5981,6 +6408,16 @@
 			(type default)
 		)
 		(uuid "e1a8d4b4-7034-4d83-918d-08dd58a2f252")
+	)
+	(wire
+		(pts
+			(xy 265.43 87.63) (xy 266.7 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a74b98-53d5-48d7-b822-e59b9060cbd8")
 	)
 	(wire
 		(pts
@@ -6091,6 +6528,16 @@
 			(type default)
 		)
 		(uuid "f1927ce5-972c-403c-b058-ca9ab7b06ebc")
+	)
+	(wire
+		(pts
+			(xy 266.7 87.63) (xy 266.7 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b665e3-9590-4bd8-b434-c8ef4b180288")
 	)
 	(wire
 		(pts
@@ -6950,7 +7397,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 214.63 101.6 270)
+		(at 207.01 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6958,7 +7405,7 @@
 		(dnp no)
 		(uuid "01781056-12ba-43e5-b5fd-5d12afb6c461")
 		(property "Reference" "M4"
-			(at 218.694 100.33 90)
+			(at 211.074 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6967,7 +7414,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.694 102.87 90)
+			(at 211.074 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6976,7 +7423,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 214.63 101.6 0)
+			(at 207.01 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6985,7 +7432,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 101.6 0)
+			(at 207.01 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6994,7 +7441,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 101.6 0)
+			(at 207.01 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7102,6 +7549,70 @@
 			(project ""
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "capstone:REF192_SHIELD")
+		(at 273.05 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f9f98f4-30bb-4c74-8726-00c5b9165c85")
+		(property "Reference" "U9"
+			(at 273.05 81.534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 273.05 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "capstone:REF192 Shield"
+			(at 273.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b0ac0e5-e5a9-4e6f-8367-11a9572c9250")
+		)
+		(instances
+			(project ""
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -7566,6 +8077,73 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_5")
+		(lib_id "power:GND")
+		(at 254 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bf4037f-6782-40d1-a2ad-5f5f236e8bf3")
+		(property "Reference" "#PWR019"
+			(at 254 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 254 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b33aa5c9-1368-4590-ad7e-a995ff8049c8")
+		)
+		(instances
+			(project ""
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 49.53 62.23 180)
 		(unit 1)
@@ -7634,7 +8212,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 214.63 88.9 270)
+		(at 207.01 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7643,7 +8221,7 @@
 		(fields_autoplaced yes)
 		(uuid "3518f0b8-a180-4880-9029-e151a4054091")
 		(property "Reference" "M2"
-			(at 218.44 87.6299 90)
+			(at 210.82 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7652,7 +8230,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 90.1699 90)
+			(at 210.82 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7661,7 +8239,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 214.63 88.9 0)
+			(at 207.01 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7670,7 +8248,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 88.9 0)
+			(at 207.01 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7679,7 +8257,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 88.9 0)
+			(at 207.01 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8156,7 +8734,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 214.63 95.25 270)
+		(at 207.01 95.25 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8165,7 +8743,7 @@
 		(fields_autoplaced yes)
 		(uuid "528547a9-6137-45a7-b6fb-69dfd03dd2c8")
 		(property "Reference" "M3"
-			(at 218.44 93.9799 90)
+			(at 210.82 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8174,7 +8752,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 96.5199 90)
+			(at 210.82 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8183,7 +8761,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 214.63 95.25 0)
+			(at 207.01 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8192,7 +8770,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 95.25 0)
+			(at 207.01 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8201,7 +8779,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 95.25 0)
+			(at 207.01 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8723,6 +9301,70 @@
 		)
 	)
 	(symbol
+		(lib_id "capstone:FOD814_SHIELD")
+		(at 260.35 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79364057-1004-4aa3-81f1-6e1fbf95e972")
+		(property "Reference" "U8"
+			(at 260.35 81.534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 260.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "capstone:FOD814 Shield"
+			(at 260.35 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b053ee0-2499-44ed-9f9d-46bdbcd17072")
+		)
+		(instances
+			(project ""
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "capstone:ECS-80-18-5PX-GM-TR")
 		(at 39.37 85.09 0)
 		(unit 1)
@@ -8837,6 +9479,73 @@
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
 					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_5")
+		(lib_id "power:GND")
+		(at 266.7 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7fc7deaa-ac58-429b-abfd-1a47897e6dfe")
+		(property "Reference" "#PWR026"
+			(at 266.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 266.7 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 266.7 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3120efc5-f6c9-4270-a770-35d69fcd86ed")
+		)
+		(instances
+			(project "mcu_integration"
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -9387,6 +10096,73 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_5")
+		(lib_id "power:GND")
+		(at 279.4 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e2e70a2-970c-47d5-806a-22f07ae95ae1")
+		(property "Reference" "#PWR029"
+			(at 279.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 279.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 279.4 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 279.4 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 279.4 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf50d246-8f72-4645-b159-3a322b188461")
+		)
+		(instances
+			(project "mcu_integration"
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 17.78 33.02 0)
 		(unit 1)
@@ -9783,6 +10559,70 @@
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
 					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "capstone:AD844_SHIELD")
+		(at 247.65 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c158d1a1-8b09-43bd-b490-bb81b4141227")
+		(property "Reference" "U7"
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "capstone:AD844 Shield"
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab5167b5-d2f8-447b-b17b-6f42e3b38eee")
+		)
+		(instances
+			(project ""
+				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2"
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -10296,7 +11136,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 214.63 82.55 270)
+		(at 207.01 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10305,7 +11145,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea9cbcd4-8b7f-4600-8a5d-a6f7c2496d5c")
 		(property "Reference" "M1"
-			(at 218.44 81.2799 90)
+			(at 210.82 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10314,7 +11154,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 83.8199 90)
+			(at 210.82 83.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10323,7 +11163,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 214.63 82.55 0)
+			(at 207.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10332,7 +11172,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 82.55 0)
+			(at 207.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +11181,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 82.55 0)
+			(at 207.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
