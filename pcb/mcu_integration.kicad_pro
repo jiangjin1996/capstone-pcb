@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.0,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|104755000|55752317|8aa2fe65-a5ce-44ba-bfa9-f64ac47bc90b|f43d97ea-499b-484d-ae06-e545d7ecacc6",
+          ""
+        ],
+        [
+          "courtyards_overlap|171785000|57566492|cfbaffb1-22e8-468d-94eb-634fde0c7ce3|f43d97ea-499b-484d-ae06-e545d7ecacc6",
+          ""
+        ],
+        [
+          "courtyards_overlap|171785000|60175000|84c2a15f-e707-44ce-899c-23c70b981d85|f43d97ea-499b-484d-ae06-e545d7ecacc6",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -463,6 +476,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
