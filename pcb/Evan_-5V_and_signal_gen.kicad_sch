@@ -4186,9 +4186,9 @@
 		)
 		(uuid "f5add809-d936-4b7c-8d28-5bde2f57f58e")
 	)
-	(text "Added to remove DC offset"
+	(text "C47: Added to remove DC offset"
 		(exclude_from_sim no)
-		(at 139.7 58.928 0)
+		(at 134.112 59.182 0)
 		(effects
 			(font
 				(size 1.27 1.27)
