@@ -8715,6 +8715,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 49.53 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+			(at 49.53 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b262c765-cd4b-41ac-b4aa-47d4d1fe2d89")
 		)
@@ -8912,6 +8930,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 118.11 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 118.11 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
 			(at 118.11 24.13 0)
 			(effects
 				(font
@@ -9648,6 +9684,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 27.94 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+			(at 27.94 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e0a4987-cfdb-4b05-a5d7-6aec34ea6eec")
 		)
@@ -9718,6 +9772,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 76.2 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+			(at 76.2 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8e29752-78d7-4bd2-a8a2-3a4006b68c3d")
 		)
@@ -9779,6 +9851,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 204.47 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 204.47 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
 			(at 204.47 55.88 0)
 			(effects
 				(font
@@ -10044,6 +10134,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 63.5 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 63.5 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
 			(at 63.5 27.94 0)
 			(effects
 				(font
@@ -10844,6 +10952,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 39.37 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+			(at 39.37 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c2888b1-d2fd-49f0-9c7b-f727e8d95dc3")
 		)
@@ -11242,6 +11368,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 52.07 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kemet"
+			(at 52.07 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
 			(at 52.07 27.94 0)
 			(effects
 				(font
