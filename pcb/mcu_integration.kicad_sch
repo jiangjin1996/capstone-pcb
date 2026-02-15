@@ -8314,6 +8314,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 17.78 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT188R61C106KE13D"
+			(at 17.78 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee23dabb-cfb5-444c-b439-cc820b07d74c")
 		)
@@ -8507,6 +8525,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 33.02 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 33.02 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
 			(at 33.02 166.878 0)
 			(effects
 				(font
@@ -8715,7 +8751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 49.53 62.23 90)
 			(effects
 				(font
@@ -8724,7 +8760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 49.53 62.23 90)
 			(effects
 				(font
@@ -8869,6 +8905,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 78.74 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 78.74 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "212ffc76-cc72-4a1a-ae3c-6bd0c703b566")
 		)
@@ -8938,7 +8992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 118.11 24.13 0)
 			(effects
 				(font
@@ -8947,7 +9001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 118.11 24.13 0)
 			(effects
 				(font
@@ -9277,6 +9331,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 19.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+			(at 19.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f9a7568-26ae-4a22-9f74-58ebefa48033")
 		)
@@ -9544,6 +9616,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 63.5 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+			(at 63.5 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9996ca25-d657-488d-af33-48434c645e3f")
 		)
@@ -9606,6 +9696,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 41.148 166.624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 41.148 166.624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
 			(at 41.148 166.624 0)
 			(effects
 				(font
@@ -9684,7 +9792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 27.94 27.94 0)
 			(effects
 				(font
@@ -9693,7 +9801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 27.94 27.94 0)
 			(effects
 				(font
@@ -9772,7 +9880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 76.2 27.94 0)
 			(effects
 				(font
@@ -9781,7 +9889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 76.2 27.94 0)
 			(effects
 				(font
@@ -9859,7 +9967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 204.47 55.88 0)
 			(effects
 				(font
@@ -9868,7 +9976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 204.47 55.88 0)
 			(effects
 				(font
@@ -10142,7 +10250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 63.5 27.94 0)
 			(effects
 				(font
@@ -10151,7 +10259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 63.5 27.94 0)
 			(effects
 				(font
@@ -10776,7 +10884,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20p"
+		(property "Value" "22p"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -10804,6 +10912,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 52.07 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 52.07 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM1555C1H220JA16D"
 			(at 52.07 91.44 0)
 			(effects
 				(font
@@ -10882,6 +11008,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 154.94 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+			(at 154.94 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b78a9557-402e-40c2-81d0-462b1140529e")
 		)
@@ -10952,7 +11096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 39.37 27.94 0)
 			(effects
 				(font
@@ -10961,7 +11105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 39.37 27.94 0)
 			(effects
 				(font
@@ -11376,7 +11520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Kemet"
+		(property "Manufacturer_Name" "Murata"
 			(at 52.07 27.94 0)
 			(effects
 				(font
@@ -11385,7 +11529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0402C104K8RACAUTO"
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
 			(at 52.07 27.94 0)
 			(effects
 				(font
@@ -11455,6 +11599,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 86.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 86.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
 			(at 86.36 166.37 0)
 			(effects
 				(font
@@ -11729,6 +11891,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 128.27 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+			(at 128.27 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b70c21ed-af60-4b92-8c4e-e52d100c045e")
 		)
@@ -11866,6 +12046,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 214.63 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM1555C1H221JA16D"
+			(at 214.63 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "336b23a3-5b17-46be-9932-9633f803f630")
 		)
@@ -11927,6 +12125,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 222.25 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 222.25 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
 			(at 222.25 55.88 0)
 			(effects
 				(font
@@ -12149,6 +12365,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 246.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+			(at 246.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f0f1417-eea2-4628-a80d-b0610d56f16a")
 		)
@@ -12277,6 +12511,24 @@
 		)
 		(property "Description" ""
 			(at 43.942 156.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 43.942 156.972 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+			(at 43.942 156.972 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12517,7 +12769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20p"
+		(property "Value" "22p"
 			(at 36.83 92.71 0)
 			(effects
 				(font
@@ -12545,6 +12797,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 33.02 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 33.02 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM1555C1H220JA16D"
 			(at 33.02 91.44 0)
 			(effects
 				(font

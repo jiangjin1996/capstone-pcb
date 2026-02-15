@@ -5665,7 +5665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 905.41 39.37 0)
 			(effects
 				(font
@@ -5825,6 +5825,24 @@
 		)
 		(property "Description" ""
 			(at 303.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 303.53 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 303.53 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6008,7 +6026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at -595.53 60.96 0)
 			(effects
 				(font
@@ -6195,7 +6213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at -592.99 143.51 0)
 			(effects
 				(font
@@ -6431,6 +6449,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 146.05 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 146.05 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88f8dab0-628e-46bc-91a2-7640cb4b4a2c")
 		)
@@ -6633,6 +6669,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 295.91 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 295.91 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59a7be2b-8765-474f-9282-3bdcc38ac1b0")
 		)
@@ -6697,6 +6751,24 @@
 		)
 		(property "Description" ""
 			(at 143.51 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 143.51 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 143.51 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6842,6 +6914,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 208.28 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 208.28 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9a6935a-999a-4b28-9e71-7452a63eefa3")
 		)
@@ -6974,6 +7064,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 53.34 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 53.34 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfb6ba46-9a07-42bf-b690-516531ebc7e5")
 		)
@@ -7045,6 +7153,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 210.82 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 210.82 203.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8744f47d-ed10-4795-a06c-2eb2ba098547")
 		)
@@ -7105,6 +7231,24 @@
 		)
 		(property "Description" ""
 			(at 54.61 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 54.61 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 54.61 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7223,7 +7367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at -742.85 73.66 0)
 			(effects
 				(font
@@ -7553,7 +7697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at -592.99 209.55 0)
 			(effects
 				(font
@@ -7935,7 +8079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at -739.04 222.25 0)
 			(effects
 				(font
@@ -8007,6 +8151,24 @@
 		)
 		(property "Description" ""
 			(at 294.64 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 294.64 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 294.64 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8221,6 +8383,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 257.81 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 257.81 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8af5b528-231f-47be-9a4a-323abf5e03b8")
 		)
@@ -8350,6 +8530,24 @@
 		)
 		(property "Description" ""
 			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 210.82 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 210.82 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8963,6 +9161,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 295.91 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 295.91 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78d04d2a-b1e1-44aa-9ac3-2c7c50ebab01")
 		)
@@ -9534,7 +9750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at -560.3 60.96 0)
 			(effects
 				(font
@@ -9544,7 +9760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at -660.3 60.96 0)
 			(effects
 				(font
@@ -9616,6 +9832,24 @@
 		)
 		(property "Description" ""
 			(at 266.7 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 266.7 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 266.7 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9799,7 +10033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at -737.77 151.13 0)
 			(effects
 				(font
@@ -9936,6 +10170,24 @@
 		)
 		(property "Description" ""
 			(at 87.63 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 87.63 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 87.63 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10372,7 +10624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at -557.76 209.55 0)
 			(effects
 				(font
@@ -10382,7 +10634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at -657.76 209.55 0)
 			(effects
 				(font
@@ -11137,6 +11389,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 49.53 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 49.53 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66d08d0f-65af-4111-8984-d04e520f6c8a")
 		)
@@ -11206,6 +11476,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 303.53 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 303.53 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79200b85-578b-4235-912e-f8ad67f0c98b")
 		)
@@ -11268,6 +11556,24 @@
 		)
 		(property "Description" ""
 			(at 82.55 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 82.55 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 82.55 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11386,7 +11692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 910.49 116.84 0)
 			(effects
 				(font
@@ -11458,6 +11764,24 @@
 		)
 		(property "Description" ""
 			(at 259.08 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 259.08 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 259.08 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11676,6 +12000,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 266.7 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 266.7 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46b4dfc2-2ee4-452b-af13-38c884476e00")
 		)
@@ -11738,6 +12080,24 @@
 		)
 		(property "Description" ""
 			(at 86.36 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 86.36 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 86.36 176.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11814,6 +12174,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 257.81 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 257.81 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "faafeead-3a73-424e-957d-ebc3fc145438")
 		)
@@ -11878,6 +12256,24 @@
 		)
 		(property "Description" ""
 			(at 146.05 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 146.05 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 146.05 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11987,7 +12383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at -557.76 143.51 0)
 			(effects
 				(font
@@ -11997,7 +12393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at -657.76 143.51 0)
 			(effects
 				(font
@@ -12490,6 +12886,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 294.64 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 294.64 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ce25167-341b-4ae4-959d-07c7743bcd7e")
 		)
@@ -12552,6 +12966,24 @@
 		)
 		(property "Description" ""
 			(at 259.08 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 259.08 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 259.08 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12993,7 +13425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 909.22 187.96 0)
 			(effects
 				(font

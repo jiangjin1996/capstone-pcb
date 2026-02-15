@@ -6604,7 +6604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 773.66 45.72 0)
 			(effects
 				(font
@@ -6614,7 +6614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 873.66 45.72 0)
 			(effects
 				(font
@@ -6888,6 +6888,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 168.91 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 168.91 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C475K4RACAUTO"
 			(at 168.91 53.34 0)
 			(effects
 				(font
@@ -7489,6 +7507,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 71.628 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2000X"
+			(at 71.628 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3165b245-8cc3-4884-ad50-f0c433f72d59")
 		)
@@ -7621,6 +7657,24 @@
 		)
 		(property "Description" ""
 			(at 257.81 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 257.81 141.478 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 257.81 141.478 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8101,6 +8155,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 158.75 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 158.75 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e78d2c7-d6e8-491e-8399-e45ebe2b88f0")
 		)
@@ -8161,6 +8233,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 215.9 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 215.9 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 215.9 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8468,7 +8558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at -669.266 38.862 0)
 			(effects
 				(font
@@ -8478,7 +8568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at -769.266 38.862 0)
 			(effects
 				(font
@@ -8550,6 +8640,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 175.26 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 175.26 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 175.26 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8888,6 +8996,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 165.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 165.1 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 165.1 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9273,7 +9399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C334K3RACAUTO7210"
+		(property "Manufacturer_Part_Number" "C0805C334K4RACAUTO"
 			(at 1075.59 141.478 0)
 			(effects
 				(font
@@ -9422,6 +9548,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 256.54 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 256.54 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3924106d-bb02-42df-8aa0-9d08dd2037ba")
 		)
@@ -9492,6 +9636,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0098d00-5c02-4cdb-b5f5-e6220746eff1")
 		)
@@ -9553,6 +9715,24 @@
 		)
 		(property "Description" ""
 			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 144.78 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF5601X"
+			(at 144.78 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9762,6 +9942,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 172.72 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 172.72 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7dca6711-2b44-4d7e-add4-d06c1366420b")
 		)
@@ -9959,6 +10157,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 180.34 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 180.34 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 180.34 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10384,6 +10600,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 138.43 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 138.43 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4961a48-f922-48b5-b151-eaf60591898b")
 		)
@@ -10781,6 +11015,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 143.51 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 143.51 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d04d4551-8623-4cde-b6c9-d3e3d33958eb")
 		)
@@ -10842,6 +11094,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 151.13 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 151.13 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 151.13 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10920,6 +11190,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 186.69 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 186.69 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46cef22a-89d3-48a0-b6e9-ede219828efc")
 		)
@@ -10982,6 +11270,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 132.08 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 132.08 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
 			(at 132.08 105.41 0)
 			(effects
 				(font
@@ -11054,6 +11360,24 @@
 		)
 		(property "Description" ""
 			(at 83.312 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 83.312 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 83.312 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
