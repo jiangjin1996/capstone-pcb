@@ -430,6 +430,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7c33ee1-42b2-4a32-a96c-cded68f1365d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea78a689-92e5-4c13-8083-b79f4e95e660")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/c9a25df4-b832-4c6e-80ab-2ae998c2790c")
 		(sheetname "/Matt IC Tests/")
@@ -629,6 +655,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60588209-d136-45b0-bd07-939e3f370cbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a6450f5-05b9-4c26-b132-d5604c4293ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/e72aea52-af46-48fd-a2f5-8428a26042b5")
 		(sheetname "/Evan -5V and signal gen/")
@@ -766,6 +818,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5d939fa-d633-46a3-ad44-7899ad5f9de8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47fbe411-4cc3-468f-b7a8-2b798a2a7ffb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -969,6 +1047,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "508b03db-55cb-4341-a0e3-d9294ba60224")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C475K4RACAUTO"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72356327-6ccd-4a45-807b-596fb8492749")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/15ada7d9-cb9c-4ebd-b7af-4445410335f4")
 		(sheetname "/Evan -5V and signal gen/")
@@ -1106,6 +1210,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5605c4df-15d4-48f1-ba2f-7353ba3b47c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BLM18SG121TN1D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17c88c13-0ba5-4fee-b421-38b5d83c04f0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1362,7 +1492,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TL081IDT"
+		(property "Manufacturer_Part_Number" "TL081HIDR"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1960,7 +2090,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1984,9 +2114,36 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e87c4151-1e20-492d-85a2-1955a1172061")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1b4067c-fd21-4ae3-b27c-801643a5e2f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(path "/3a030370-9ce3-4833-8fb9-29ce7ff82b94")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -2178,6 +2335,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ae9e6ae-e9d9-49ef-bc84-070508f65ed4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29051caf-ebfe-44fd-bdcd-9c47b3f40967")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2383,6 +2566,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a39beb6d-c96a-4160-8317-3c54beabdc58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed1a652b-f9c6-4af8-b0b4-b9e7e392418e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/31305d6d-7731-4f7a-bc45-cf230d857657")
 		(sheetname "/")
@@ -2580,6 +2789,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "587296a3-949f-4207-a83c-77ea613911dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59e5eadc-761f-4d7d-a6d1-a6010b0445b6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2788,7 +3023,7 @@
 		(path "/0f9f98f4-30bb-4c74-8726-00c5b9165c85")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -6.1025 -3.994999)
 			(end -6.1025 -2.994999)
@@ -9584,6 +9819,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53f6fd5e-0406-4813-8a0a-7bd0236504bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8231f69f-83ef-4994-a7d3-c8dcec0d9a90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/d332615f-512a-4327-8030-91fb4026345d")
 		(sheetname "/Matt IC Tests/")
@@ -9785,6 +10046,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36a33dee-7de6-44ee-b2f4-503f9b7f9fb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca833e12-c9a3-4c9d-ac47-3681a635669e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/467dd7cd-6ff1-4ea7-a7a0-be5ebc21bd0c")
 		(sheetname "/")
@@ -9981,6 +10268,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dafd8753-fece-49d2-939b-ef861cffd619")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cbd36a6-2187-4710-a94a-916d90290fd7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10683,6 +10996,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd3f632f-cdb9-4a13-993f-77cd8bcf3251")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9cfcd44-4f86-4d4b-bdc6-acc1c2125a30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d666e3fd-a566-48c2-94f0-eaaf2fbebc22")
 		(sheetname "/")
@@ -10828,7 +11167,7 @@
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/5ecbe08f-fb11-4df3-8ae2-257cf8ad106e")
 		(sheetname "/Matt IC Tests/")
 		(sheetfile "untitled.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 8.95)
@@ -11101,6 +11440,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a4e63dd-d617-4028-b713-65f9d9f621be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5bd1c9b-a8e2-46b3-9e51-3606057593c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8edc7428-0d29-40cf-9bf5-64727ec89707")
 		(sheetname "/")
@@ -11306,7 +11671,7 @@
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/c1d93e36-1d07-4c7d-aa32-4b1b0818215d")
 		(sheetname "/Evan -5V and signal gen/")
 		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 6.41)
@@ -11562,6 +11927,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bbae1c0-9b44-4649-a482-adb331661090")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cb7eca1-d7b4-4798-81ae-2269826d929a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12056,6 +12447,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cfaf856-4c3c-40de-be86-a39ec7eee98d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM1555C1H221JA16D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "456cdc3a-1819-43db-9280-f16f69799387")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cfe0e1a3-648b-4801-a8bb-0c79b489d944")
 		(sheetname "/")
@@ -12193,6 +12610,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61a7a309-5121-4137-8252-8e3584920495")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5210eb49-9b5e-4078-b845-f2476e49694a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12398,6 +12841,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb2d9553-16b8-447c-9469-2cf134b5d06b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF5601X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ea8599f-700d-41f7-b637-883622f7ce0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/a7183cf0-dbf3-4154-be26-c583dd5f46df")
 		(sheetname "/Evan -5V and signal gen/")
@@ -12597,6 +13066,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6271799-e560-4cd4-986a-117d86c53963")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "edd0f103-231f-4f4c-8df7-6ea884f615ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8bee90c9-d5e9-44fd-8d68-b03341312009")
 		(sheetname "/")
@@ -12792,6 +13287,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "STMicroelectronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f67b6072-de51-4b7e-9298-a5991bedb396")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STM32F103RBT7"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60ad0f92-7efb-43ae-92c7-a0aabf728ba2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13899,6 +14420,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67d16c3d-df31-49c2-8080-79297db0e77f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbd17ac9-0422-4075-b4e3-b97eb91238a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c65b4898-d401-4d2f-b6e7-97991e6e5c60")
 		(sheetname "/")
@@ -14139,7 +14686,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14152,7 +14699,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14341,7 +14888,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14365,9 +14912,36 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36bcb0ce-21ca-47ac-8455-ea0d4327dd0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e09d60e1-c02a-48c3-aa46-a32208bc3b10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(path "/e85db73b-4985-4aad-908b-78f88f734a01")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 0.36)
@@ -14560,6 +15134,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7acfcf17-5d35-4b83-9050-803ad21f0464")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f73e6a26-38d5-46f1-9f67-667e21a187d7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15268,7 +15868,7 @@
 		(path "/c158d1a1-8b09-43bd-b490-bb81b4141227")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_rect
 			(start -8.6175 -8.622)
 			(end -7.0935 -5.387)
@@ -15714,6 +16314,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5435ed5-4d5b-47fa-aa63-730212b6d8f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53259761-347c-45f7-97a7-076d80a6b8ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/86d8fca8-a2fe-49b5-8266-bbe0cefbf22a")
 		(sheetname "/Evan -5V and signal gen/")
@@ -15909,6 +16535,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8681db8-c970-45d0-b6c6-6cf7839ee259")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a33dabf-5bb6-41a2-8e30-ed5479a9e397")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16799,6 +17451,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc8e9339-b7e9-4d45-98a4-e4bbfd30596f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d8f0624-f8db-4aff-b830-51281991077e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/4152d491-65dd-4c96-8007-0c19192ec617")
 		(sheetname "/Evan -5V and signal gen/")
@@ -16994,6 +17672,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f272a0c-dc5d-415f-8192-2e97726d8b91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "689e8a54-dcb5-4e16-a94d-d2e92f4bc800")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17201,7 +17905,7 @@
 		(path "/528547a9-6137-45a7-b6fb-69dfd03dd2c8")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -17267,7 +17971,7 @@
 				)
 			)
 		)
-		(property "Value" "ESQ-126-39-L-D"
+		(property "Value" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -17355,7 +18059,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-L-D"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18191,7 +18895,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18204,7 +18908,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18421,7 +19125,7 @@
 		(path "/01781056-12ba-43e5-b5fd-5d12afb6c461")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -18519,6 +19223,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ff82d4a-2205-4b9e-8902-01e97c9f02f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39d76892-f387-4a0e-9f1d-65fc6647c481")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18698,7 +19428,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18722,9 +19452,36 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1386250c-e469-4068-9aed-26fe5efed311")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c43e683c-bb37-4456-96eb-b70b4f33ffd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(path "/a8c48c2f-5bb5-4bb0-a9b9-103a100ff68d")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -19492,7 +20249,7 @@
 		(path "/ea9cbcd4-8b7f-4600-8a5d-a6f7c2496d5c")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -19568,7 +20325,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19592,9 +20349,36 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f686eb2d-cd62-4979-8077-4681f7ad994c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e6c0a18-851c-484b-b82c-7ba3dfd9a173")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(path "/5b0af581-b5c5-4043-9732-c7e7191c3f0c")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -20217,6 +21001,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f18ae58-1562-4f07-a65b-b55c924398a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0aa98b84-713d-4917-993f-39d75b491804")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/e5bfc65d-4d1b-4c31-99c5-30498da4130f")
 		(sheetname "/Evan -5V and signal gen/")
@@ -20416,6 +21226,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "499c7d8e-0035-4ec6-9aea-ccafa065bb97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31530d51-c26b-49cb-ba9a-8a0f0b36423c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/df636f0e-1240-4dae-8ffb-a4b7c2124f6c")
 		(sheetname "/Evan -5V and signal gen/")
@@ -20578,7 +21414,7 @@
 				)
 			)
 		)
-		(property "Value" "MSOP-8_MS"
+		(property "Value" "LTC4300A-1IMS8_PBF"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4d6fb691-75f6-40a6-ba6b-de79a6954ca9")
@@ -20639,8 +21475,35 @@
 				)
 			)
 		)
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5d30526-549a-424a-937a-05ff639f6b28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#PBF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cda72924-8d02-40dd-a766-93346c4dea64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/f9fe00cc-5bc9-475f-9fe3-4f5ccb7d48fd")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6764 1.6764)
@@ -21685,6 +22548,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "263990bd-2938-4467-a536-726d57035504")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9813c8fe-0b73-4d8b-9e6c-0ea6bf72887f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a824b83e-f21e-495e-ae00-05e9de804b34")
 		(sheetname "/")
@@ -21884,6 +22773,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0103cee5-d3c8-4942-863f-73c8f3b1f55a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21ee4901-fbcd-4f64-9572-4c1c9bf3907f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/f5dc3831-5b11-4d43-b974-34edf1259650")
 		(sheetname "/Evan -5V and signal gen/")
@@ -22021,6 +22936,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4979e230-07ca-4afb-81a5-0ecf8a9a14f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc2dee68-166e-4ab9-ac7c-d2983c84e0f1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22224,6 +23165,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45c01e9d-c0dd-488f-a985-950c5b228177")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "667755ed-025c-44fa-b396-e2aff9a43301")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/bbabb05a-b242-4cb1-8215-5cbabe6fb025")
 		(sheetname "/Evan -5V and signal gen/")
@@ -22419,6 +23386,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c71e239-fc5f-48e2-ae16-3e5337a50a17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF2000X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "471a08a4-1ba4-476b-a3b5-e98152dd2500")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22619,6 +23612,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f02d74d1-8fb1-4d94-b6d6-c0479769bc16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d58d60f1-a025-459e-b0f6-89bd4c4da981")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23638,6 +24657,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9b28473-7540-4ac2-94d7-8f690c455a2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd0a0005-b307-489c-9bc8-d77454cfa077")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/a2f3bc95-091e-46cb-8d6f-32770313c5e3")
 		(sheetname "/Evan -5V and signal gen/")
@@ -23841,7 +24886,7 @@
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/d172393d-2903-4879-af69-220b52241c75")
 		(sheetname "/Matt IC Tests/")
 		(sheetfile "untitled.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 8.95)
 			(end 1.33 8.95)
@@ -24540,6 +25585,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d81f70a9-e165-41b4-8b76-808e104f2a0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1354fa36-749b-4201-8498-b779bcbdf5d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/622fddc8-b810-4b9e-83f7-72c8100f5ab2")
 		(sheetname "/")
@@ -24743,7 +25814,7 @@
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/32ea4567-a08a-45e5-ab98-0c6d99101b14")
 		(sheetname "/Matt IC Tests/")
 		(sheetfile "untitled.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -25011,6 +26082,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65620526-d9c3-49d4-af68-14503409dd56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS2069CDBVR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91e481bc-7efb-4a6d-9cc7-d39070d96126")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25880,7 +26977,7 @@
 		(path "/3518f0b8-a180-4880-9029-e151a4054091")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -25976,6 +27073,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c68302b6-c478-444e-b75b-b2a937a61ffb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "818293d4-e75c-4391-b830-8551e6b8021c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26117,6 +27240,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41551b18-1cf8-4334-b27b-3fb8f560c018")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3d241f5-1352-419b-a7e6-1aa86d17f7f5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26326,7 +27475,7 @@
 		(path "/968f8967-2f33-4451-9859-e924772a2aff")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -1.485 -0.735)
 			(end -1.485 0.735)
@@ -26543,6 +27692,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94da0ac7-48f2-4781-b822-4294d4a98e08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT188R61C106KE13D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "203a354d-75b6-4ae0-ba09-9722ff860b61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/171a27e6-87af-437f-b9a7-7a5754890b04")
 		(sheetname "/")
@@ -26749,7 +27924,7 @@
 		(path "/d371d0ae-1834-4c2a-abe0-f102bf18c1ad")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 11.49)
@@ -27007,7 +28182,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27031,9 +28206,36 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a36a35bd-4cb6-44ea-8172-d1b2f61eb552")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c763fa6a-8577-49bf-a8ab-7eea41e8a0eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
-		(sheetname "/Evan -5V and signal gen/")
-		(sheetfile "Evan_-5V_and_signal_gen.kicad_sch")
+		(path "/279f77ef-98a8-4a23-98c7-5dcf84ab9530")
+		(sheetname "/")
+		(sheetfile "mcu_integration.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -27234,7 +28436,7 @@
 		(path "/79364057-1004-4aa3-81f1-6e1fbf95e972")
 		(sheetname "/")
 		(sheetfile "mcu_integration.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -8.995 4.949999)
 			(end -8.995 2.949999)
@@ -30780,6 +31982,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db3aefa2-7b69-4855-a217-85d130e220e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f90b8b5-7755-4a1b-95fa-a9cbb7f65c90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/670b2ed6-91b9-40a3-9d52-de36e7c32a52")
 		(sheetname "/")
@@ -30979,6 +32207,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d4980e3-e5d6-44a0-9bf5-6771d7224a5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f10ddbbd-d8ba-49db-a8cd-9f60e7be76ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d025b633-3c8e-4913-a47c-95733866552e")
 		(sheetname "/")
@@ -31144,7 +32398,7 @@
 				)
 			)
 		)
-		(property "Value" "ESQ-126-39-L-D"
+		(property "Value" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31232,7 +32486,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-L-D"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32029,6 +33283,32 @@
 				)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11f2171a-b510-49d0-ae04-71e1e896d933")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d13d7a1-5545-4b54-9a22-6b29c9e76f76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/39708197-8fe0-4b5c-ba49-65ed06982da9/cc05d6b1-e36f-4f48-979e-b27c72727caf")
 		(sheetname "/Evan -5V and signal gen/")
@@ -32227,6 +33507,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "17d5df7f-335b-4737-bf52-a2783b640fcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66042467-62d0-42f0-98f6-6b055591b3d2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -32695,6 +34003,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e84373d-645b-4f04-b005-0404b4cf0b17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "78127fac-5115-449f-82d4-b211fda683fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/15b028ba-5306-4048-9992-b46eaba83191")
 		(sheetname "/Matt IC Tests/")
@@ -32836,6 +34172,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "23828861-b7f0-4fb2-9f45-ed285f524a09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f9321341-6bc4-493d-9908-3386ce2a40e9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -33348,7 +34712,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33362,7 +34726,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33581,6 +34945,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b13b5506-70ce-4fcf-9e33-83057b3fca59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "59012efc-8171-4541-8be6-e5777ef6b58a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/2e778d13-112a-4c20-a10b-18ef99962a86")
 		(sheetname "/Matt IC Tests/")
@@ -33754,7 +35146,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 19.915 -217.041 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -33982,6 +35374,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99239018-fe18-49d0-a7db-c9e3cf954fd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d43f93e-b592-486d-a1ba-7be06fae619b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -34218,7 +35638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at 12.652598 -192.807402 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -34451,6 +35871,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db2522e2-c3fd-4fa4-85c5-3bc4fa844a23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d6da870-e97b-4d8e-b438-2129e11736ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/2fe8bd63-c55a-41e7-962b-598e493994d5")
 		(sheetname "/Matt IC Tests/")
@@ -34655,6 +36103,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "da5eac4b-ac44-4d5b-bb78-1fdb03082974")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "96c8e4ba-4039-473d-83d9-8e250a6b1a5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/55054b31-e764-4e62-bbb5-d1f74327eb4f")
 		(sheetname "/Matt IC Tests/")
@@ -34828,7 +36304,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at -0.41 -206.582 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -35061,6 +36537,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56b903c3-ddf0-41f3-9945-326894f166ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7eb2469f-5cfc-4d25-9da8-b48f28ff377e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/bfef45e0-678f-4c3c-a647-cf4c37ad93f6")
 		(sheetname "/Matt IC Tests/")
@@ -35260,6 +36764,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1fb7ac24-8061-4eb9-9698-4d4621fa5fce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c106d0a-57f4-462e-a681-33ec5a95a1dd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35469,6 +37001,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d294f1ee-a600-49e2-8fed-c7710a20d670")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dd3a648e-0561-47ec-b06d-0cd4868bee4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/2d82b468-4003-49ff-a684-b7026ba3c5a4")
 		(sheetname "/Matt IC Tests/")
@@ -35668,6 +37228,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7b4621f8-0dd6-477f-85dc-598937ef942e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ccec073d-2524-4d08-a307-0f012d815fdd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -35877,6 +37465,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "de0d7adf-563e-4add-91a6-7331e6674b3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c31b102-7ce2-4111-93b7-ec9e759e17c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/6a1f71d4-903e-4df9-897b-dd8b0e9e0ec5")
 		(sheetname "/Matt IC Tests/")
@@ -36081,6 +37697,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c8b75d6-1299-47b5-8570-ecc2abfc4564")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5b5da13-9b0e-466f-8e3f-bfe5f9e739e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/d7a0cc8b-9911-432b-8d3b-b4a903fdb646")
 		(sheetname "/Matt IC Tests/")
@@ -36222,6 +37866,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f463fb11-46dc-4dbc-8d92-aec4c4e2bef8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a32e06d2-2128-4217-a5c5-deb5f09a2d5c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36475,7 +38147,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36489,7 +38161,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36692,6 +38364,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Hirose"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0cd67ebe-4ded-4079-9c0f-0d0ddcfdf29e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DM3BT-DSF-PEJS"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad24945d-a33a-4331-a2cb-fb94e23dd2d3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -37396,6 +39096,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f2f5f4e2-3795-4de5-bc03-93ab7b2efa43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99ba8dcc-2b3c-4ac2-9b15-2c7ff1bad5be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/d57d5fb3-9163-4df8-b133-842e4e9f8cb5")
 		(sheetname "/Matt IC Tests/")
@@ -37600,6 +39328,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4671d9e3-1ca1-4be4-b1e9-594a845c3bca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5a01270-aa98-48d2-ab74-3e83c0159fa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/8483f18c-3605-4aeb-bc5e-94f37ee1a8fd")
 		(sheetname "/Matt IC Tests/")
@@ -37799,6 +39555,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "21fb53bb-834d-4277-93de-7acfeb6534c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a58ec8fb-277f-43dc-bea4-8fc21a99c3e2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -38052,7 +39836,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Name" "KEMET"
+		(property "Manufacturer_Name" "Murata"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38066,7 +39850,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "T495D106K035ATE300"
+		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38312,7 +40096,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38545,6 +40329,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f19f809c-3416-4294-8556-410fc8e84f59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0a2d08bf-19a5-4488-8f91-00aeab8ca1ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L")
 		(path "/f1afd235-040c-4b54-9b6d-8df613af2103/2100d0cf-c00c-4c14-bc72-3489305f726d")
 		(sheetname "/Matt IC Tests/")
@@ -38718,7 +40530,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38946,6 +40758,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df343686-8cb1-423f-a419-2809338884cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7301347-8cec-4074-97c8-fb6a795a2c55")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -39383,7 +41223,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39643,7 +41483,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -39903,7 +41743,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224M5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40163,7 +42003,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105Z5VACTU"
+		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -40391,6 +42231,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1a162953-39b7-4e8e-af1c-acb61105f1c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56798fbf-578a-4f0b-bf15-5a94a5c0af9c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
