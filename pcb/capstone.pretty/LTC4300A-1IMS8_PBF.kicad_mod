@@ -580,4 +580,15 @@
 		(uuid "5a126c1a-eab6-419c-80a1-6227f4ed1fdb")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/footprint_3d/TL7660IDGKR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

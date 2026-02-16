@@ -405,4 +405,15 @@
 		(members "47baf75a-db35-4e3f-ba7c-18057811b948" "67fb087b-d30a-4d54-bb4d-f0d7a21fd560")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/footprint_3d/MS182-10C-NS.step"
+		(offset
+			(xyz 0 0 3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

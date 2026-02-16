@@ -3511,4 +3511,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/footprint_3d/MS168-10S.step"
+		(offset
+			(xyz 0 0 5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )

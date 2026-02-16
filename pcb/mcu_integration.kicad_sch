@@ -7787,7 +7787,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "01781056-12ba-43e5-b5fd-5d12afb6c461")
 		(property "Reference" "MH4"
 			(at 211.074 100.33 90)
@@ -7900,6 +7900,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Hirose"
+			(at 219.71 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DM3BT-DSF-PEJS"
+			(at 219.71 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "7610b8b0-e986-471b-9eff-7a6e73aaeb4f")
 		)
@@ -7946,7 +7964,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0f9f98f4-30bb-4c74-8726-00c5b9165c85")
 		(property "Reference" "SH3"
 			(at 273.05 81.534 0)
@@ -8050,6 +8068,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "STMicroelectronics"
+			(at 99.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STM32F103RBT7"
 			(at 99.06 80.01 0)
 			(effects
 				(font
@@ -8791,7 +8827,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3518f0b8-a180-4880-9029-e151a4054091")
 		(property "Reference" "MH2"
@@ -9502,7 +9538,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "528547a9-6137-45a7-b6fb-69dfd03dd2c8")
 		(property "Reference" "MH3"
@@ -10290,7 +10326,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "79364057-1004-4aa3-81f1-6e1fbf95e972")
 		(property "Reference" "SH2"
 			(at 260.35 81.534 0)
@@ -11136,7 +11172,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "968f8967-2f33-4451-9859-e924772a2aff")
 		(property "Reference" "D1"
@@ -11244,6 +11280,24 @@
 		)
 		(property "Description" ""
 			(at 144.78 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 144.78 20.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BLM18SG121TN1D"
+			(at 144.78 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,7 +11767,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c158d1a1-8b09-43bd-b490-bb81b4141227")
 		(property "Reference" "SH1"
 			(at 247.65 81.28 0)
@@ -12238,7 +12292,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d371d0ae-1834-4c2a-abe0-f102bf18c1ad")
 		(property "Reference" "J_SWD+UART1"
 			(at 171.45 66.0399 0)
@@ -12558,7 +12612,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ea9cbcd4-8b7f-4600-8a5d-a6f7c2496d5c")
 		(property "Reference" "MH1"
@@ -12910,6 +12964,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 45.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#PBF"
+			(at 45.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

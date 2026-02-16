@@ -612,7 +612,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "ESQ-126-39-G-D-001.stp"
+	(model "${KIPRJMOD}/footprint_3d/ESQ-126-39-G-D.stp"
 		(offset
 			(xyz 0 0 0)
 		)

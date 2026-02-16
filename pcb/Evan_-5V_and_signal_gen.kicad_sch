@@ -7015,7 +7015,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ESQ-126-39-L-D"
+		(property "Value" "ESQ-126-39-G-D"
 			(at 84.836 185.42 90)
 			(effects
 				(font
@@ -7093,7 +7093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-L-D"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 77.47 -609.5 0)
 			(effects
 				(font
@@ -8840,7 +8840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TL081IDT"
+		(property "Manufacturer_Part_Number" "TL081HIDR"
 			(at 242.57 855.88 0)
 			(effects
 				(font
@@ -9982,7 +9982,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c1d93e36-1d07-4c7d-aa32-4b1b0818215d")
 		(property "Reference" "J_SIG1"
 			(at 121.666 91.44 0)
@@ -10215,7 +10215,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ESQ-126-39-L-D"
+		(property "Value" "ESQ-126-39-G-D"
 			(at 40.386 184.15 90)
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-L-D"
+		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
 			(at 33.02 -609.5 0)
 			(effects
 				(font
@@ -10515,6 +10515,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 34.29 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 34.29 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS2069CDBVR"
 			(at 34.29 85.09 0)
 			(effects
 				(font

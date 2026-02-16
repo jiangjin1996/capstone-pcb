@@ -6761,4 +6761,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/footprint_3d/MS110-20S.step"
+		(offset
+			(xyz 0 0 6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

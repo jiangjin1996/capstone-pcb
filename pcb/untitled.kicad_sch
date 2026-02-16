@@ -5745,6 +5745,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 151.13 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
+			(at 151.13 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dce9e40c-4f01-4f33-97ec-66f92b047ebf")
 		)
@@ -6352,6 +6370,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 151.13 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
 			(at 151.13 191.77 0)
 			(effects
 				(font
@@ -7466,7 +7502,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "32ea4567-a08a-45e5-ab98-0c6d99101b14")
 		(property "Reference" "J_AD1"
@@ -8776,7 +8812,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5ecbe08f-fb11-4df3-8ae2-257cf8ad106e")
 		(property "Reference" "J_AD3"
@@ -11877,7 +11913,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d172393d-2903-4879-af69-220b52241c75")
 		(property "Reference" "J_AD2"
@@ -12659,6 +12695,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 148.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices"
+			(at 148.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "REF192GSZ"
 			(at 148.59 43.18 0)
 			(effects
 				(font
