@@ -7798,7 +7798,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "94f00230-a06c-4722-9498-f815dc8ae92a")
 		)
 		(pad "1" smd custom
 			(at -4.94 -4.95 90)
@@ -8258,7 +8258,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "4aa8e10b-bee5-471d-b23d-f5c003be1b2d")
 		)
 		(pad "1" smd custom
 			(at 0 -5.35)
@@ -8376,7 +8376,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "fb7f87a5-068d-4207-a79a-29c87c8529f3")
 		)
 		(pad "1" smd custom
 			(at 0 5.35)
@@ -8494,7 +8494,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "891b2370-60b1-4e43-9ef1-cf7e8fdb1b16")
 		)
 		(pad "1" smd custom
 			(at 4.95 -4.93)
@@ -8954,7 +8954,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "4290041e-ef0b-4313-a470-a9d364eeebf4")
 		)
 		(pad "1" smd custom
 			(at 4.95 4.97 270)
@@ -9414,7 +9414,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "785031a0-33df-4f75-b8c6-06350e4e1d20")
 		)
 		(pad "1" smd custom
 			(at 5.35 0 90)
@@ -9532,7 +9532,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c47c2dc8-e5fd-4ebb-8aa5-487e8e1fe303")
+			(uuid "fb1e2156-f32b-4326-8c2b-32d237b12ffd")
 		)
 		(group ""
 			(uuid "01c6de88-824f-4903-bb34-dfbe43457838")
@@ -16049,7 +16049,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "e48811e2-cb12-4d9a-acdb-f15bf6be2b55")
 		)
 		(pad "1" smd custom
 			(at -6.98 7.81 90)
@@ -16077,7 +16077,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "13258abf-53b9-490e-a57c-2b875bff131b")
 		)
 		(pad "1" smd custom
 			(at 0 -7.874 180)
@@ -16109,7 +16109,7 @@
 					(fill no)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "64edd1f1-5612-492b-b2c0-4f40e6a4db75")
 		)
 		(pad "1" smd custom
 			(at 0 7.874 180)
@@ -16141,7 +16141,7 @@
 					(fill no)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "ba1cae9b-41f1-422b-a01f-ac3cb75aa876")
 		)
 		(pad "1" smd custom
 			(at 7.01 -7.82 270)
@@ -16169,7 +16169,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "ce0d04f2-402b-49f5-8f2b-980ade04468f")
 		)
 		(pad "1" smd custom
 			(at 7.83 7 180)
@@ -16197,7 +16197,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "eb3648ad-a62e-4847-9eb7-a921742bda0f")
 		)
 		(pad "1" smd custom
 			(at 7.874 0 270)
@@ -16229,7 +16229,7 @@
 					(fill no)
 				)
 			)
-			(uuid "1ac9b67a-5d05-4c94-8443-e0142c0d5bb4")
+			(uuid "29447f00-30b7-4d76-9800-f6d562697533")
 		)
 		(group ""
 			(uuid "0cffd71b-c03a-471c-b396-39901b8fbf0c")
@@ -30883,7 +30883,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "035bae51-2822-4d98-a4e1-f4a39b79f266")
 		)
 		(pad "1" smd custom
 			(at -7.74 -6.1 270)
@@ -31169,7 +31169,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "ee93c4e0-1cc5-44e1-8ad6-785f7abe6a76")
 		)
 		(pad "1" smd custom
 			(at 0 -6.6 90)
@@ -31191,7 +31191,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "f141cda3-5ade-4967-b14b-c8d017319980")
 		)
 		(pad "1" smd custom
 			(at 0 6.6 90)
@@ -31213,7 +31213,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "b31af084-92a5-4987-8995-b75a202ef7de")
 		)
 		(pad "1" smd custom
 			(at 7.74 -6.12 180)
@@ -31499,7 +31499,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "45f115f2-c86c-4c6c-9e15-44fe032a4c73")
 		)
 		(pad "1" smd custom
 			(at 7.75 6.11 90)
@@ -31785,7 +31785,7 @@
 					(fill no)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "ffddd07c-d944-4978-84ff-52811843266e")
 		)
 		(pad "1" smd custom
 			(at 8.25 0 180)
@@ -31807,7 +31807,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "c36337e3-e44b-42e4-b288-37995d1d0e7e")
+			(uuid "0101a89f-d0aa-4f6d-a710-3c55dae80cbb")
 		)
 		(group ""
 			(uuid "01b69c04-af88-4f88-b9fc-3b3bc7675d67")
