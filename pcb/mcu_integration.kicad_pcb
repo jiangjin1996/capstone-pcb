@@ -1754,7 +1754,7 @@
 		(property "Reference" "IC5"
 			(at 0 3.831832 0)
 			(layer "F.SilkS")
-			(uuid "3ff0f84c-b226-4bcb-b74c-0e49871d40aa")
+			(uuid "c7ead6a0-d88e-4ccf-bc4f-9ef545741772")
 			(effects
 				(font
 					(size 1 1)
@@ -1766,7 +1766,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "fd92e4de-0ffc-4b9a-89e6-6f2df1c2d22c")
+			(uuid "398894de-7d55-4d02-b8fb-55b7847100be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1778,7 +1778,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79602ce2-7070-40e8-a054-c470dc5b353a")
+			(uuid "18c8b15a-19ed-4a9c-b47f-2206f2d0e89a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1790,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3890b947-d425-4fcd-a269-809af50ee1cd")
+			(uuid "d42e274f-7333-4e21-9fc1-57d5aa24c0b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9764,6 +9764,118 @@
 			)
 			(rotate
 				(xyz -90 -0 -0)
+			)
+		)
+	)
+	(footprint "capstone:MelaninShield"
+		(layer "F.Cu")
+		(uuid "2d07bea7-2a34-4451-8ebe-07fdf1d655dc")
+		(at 110.69 130.585)
+		(property "Reference" "REF**"
+			(at 0 8 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0e3b446f-83cc-4c8e-853b-5d3295c78fcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "MelaninShield"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "2223f889-179b-4436-b5cb-516dc93c853b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd9fdd5e-08ad-4b1b-a2a6-b2b633edb665")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c490708-3672-4501-89cb-8f2f048e0cfd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start 6.480734 -1.27)
+			(end -6.480734 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "53388507-3ac3-404a-8784-fb60f61f891f")
+		)
+		(fp_line
+			(start 6.480734 1.270001)
+			(end -6.480734 1.270001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "e6ae1abf-12a5-439c-ab07-f1e2ef07e89b")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 6.604 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "a00432d8-7e6d-41b3-8218-acf67fc91e6f")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/lib/models/MelaninShield.stp"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/footprint_3d/MelaninShield.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -20531,7 +20643,7 @@
 		(property "Reference" "IC10"
 			(at -6.765 -3.879288 0)
 			(layer "F.SilkS")
-			(uuid "46792774-8ea3-431a-aee0-b47f743de0aa")
+			(uuid "421f230a-b596-4c7c-925a-f5c63cdbcd5d")
 			(effects
 				(font
 					(size 1 1)
@@ -20543,7 +20655,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "4bdf11aa-a195-49b7-9593-1d1eb800336c")
+			(uuid "4a6eddae-6c7c-4c25-8cbc-17d7f20eda85")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20555,7 +20667,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aafd9ecb-e19c-4c25-9b94-cb3d0ac9571e")
+			(uuid "96170671-9592-465c-906c-faa34b8f9a52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20567,7 +20679,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "906e7a62-65fe-49a2-8ba2-630c9368efb0")
+			(uuid "70a217ee-2c16-419c-8958-4ebd6c1423a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23113,6 +23225,118 @@
 			)
 		)
 	)
+	(footprint "capstone:MelaninShield"
+		(layer "F.Cu")
+		(uuid "ac761ba1-2f08-4a6d-8c9a-33cb2d2dcd44")
+		(at 120.009353 119.236832)
+		(property "Reference" "REF**"
+			(at 0 8 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "eaceb458-f592-42d6-ac75-2c541c2852da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "MelaninShield"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "7d26dd88-2c37-41ec-ab71-16b633cb083c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd08df4b-3995-40f3-bafe-f5aa5f4b11ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "692f55fb-ca64-4e13-a7ac-5bf357c73df5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start 6.480734 -1.27)
+			(end -6.480734 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "57726d13-b28f-4af6-ae90-57d107167e72")
+		)
+		(fp_line
+			(start 6.480734 1.270001)
+			(end -6.480734 1.270001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "39464a6f-0f3d-4ba5-bb73-9c5c164675a0")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 6.604 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "543cd946-1d6c-4950-b493-0e6bcc13aa4a")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/lib/models/MelaninShield.stp"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/footprint_3d/MelaninShield.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ad4476bb-6876-4d1b-a258-32badc096987")
@@ -25095,6 +25319,118 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "capstone:MelaninShield"
+		(layer "F.Cu")
+		(uuid "babd922b-3dc0-4ff5-911d-ccb661d504c9")
+		(at 127.394353 132.5)
+		(property "Reference" "REF**"
+			(at 0 8 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d869d86a-3e89-45bf-a0b5-e09d88450ed4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "MelaninShield"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "7b097449-8e73-4dd2-bf8d-b472daf8a956")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "639a2a85-0460-4759-9f10-835f0fbf3e1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98c967c6-3025-453d-956c-a104f2c9a2d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start 6.480734 -1.27)
+			(end -6.480734 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "3e1514a0-e3e1-4eec-916d-2b2b6a71b638")
+		)
+		(fp_line
+			(start 6.480734 1.270001)
+			(end -6.480734 1.270001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "5ede3499-4aba-40e6-8669-d7bced5261a2")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 6.604 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "7f0bb880-3241-45ec-b190-f2dc127f07ed")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/lib/models/MelaninShield.stp"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/footprint_3d/MelaninShield.stp"
 			(offset
 				(xyz 0 0 0)
 			)
