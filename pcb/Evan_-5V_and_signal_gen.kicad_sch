@@ -6714,7 +6714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11bfb86f-3022-4fcd-b947-ed78820572d5")
-		(property "Reference" "IC1"
+		(property "Reference" "U3"
 			(at 53.34 24.13 0)
 			(effects
 				(font
@@ -6836,7 +6836,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2/39708197-8fe0-4b5c-ba49-65ed06982da9"
-					(reference "IC1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -8755,7 +8755,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7eee8b26-b22b-4a97-abd0-540f5d7d527d")
-		(property "Reference" "IC9"
+		(property "Reference" "U9"
 			(at 217.17 54.864 0)
 			(effects
 				(font
@@ -8877,7 +8877,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2/39708197-8fe0-4b5c-ba49-65ed06982da9"
-					(reference "IC9")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -10862,7 +10862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de0a2613-f235-4834-9313-5d6c47d0158d")
-		(property "Reference" "IC4"
+		(property "Reference" "U4"
 			(at 232.41 155.448 0)
 			(effects
 				(font
@@ -10972,7 +10972,7 @@
 		(instances
 			(project "mcu_integration"
 				(path "/c0210bc3-f67f-47d8-a34e-f002a728adb2/39708197-8fe0-4b5c-ba49-65ed06982da9"
-					(reference "IC4")
+					(reference "U4")
 					(unit 1)
 				)
 			)
