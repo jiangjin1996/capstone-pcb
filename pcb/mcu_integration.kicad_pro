@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 1.1,
+          "height": 1.65,
+          "width": 1.65
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -205,6 +205,7 @@
       "track_widths": [
         0.0,
         0.3,
+        0.4,
         0.5
       ],
       "tuning_pattern_settings": {
@@ -645,7 +646,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Manufacturer_Name"
     },
     "connection_grid_size": 50.0,
     "drawing": {
