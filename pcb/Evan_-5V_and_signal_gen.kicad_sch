@@ -6810,8 +6810,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
-			(at 873.66 45.72 0)
+		(property "MPN" ""
+			(at 77.47 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6819,7 +6819,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 77.47 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6894,6 +6904,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 214.63 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 214.63 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7111,8 +7143,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TL7660IDGKR"
-			(at 64.77 826.67 0)
+		(property "MPN" ""
+			(at 38.1 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7120,7 +7152,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 38.1 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7233,7 +7275,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C475K4RACAUTO"
+		(property "MPN" ""
+			(at 168.91 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 168.91 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7455,8 +7508,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
-			(at 77.47 -609.5 0)
+		(property "MPN" ""
+			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7464,7 +7517,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 96.52 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7826,8 +7889,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL32A157MQVNNNE"
-			(at -768.25 95.25 0)
+		(property "MPN" ""
+			(at 27.94 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7835,7 +7898,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 27.94 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7928,7 +8001,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF2000X"
+		(property "MPN" ""
+			(at 71.628 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 71.628 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -8509,7 +8593,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+		(property "MPN" ""
+			(at 158.75 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 158.75 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8610,7 +8705,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+		(property "MPN" ""
+			(at 215.9 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 215.9 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -8938,6 +9044,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 201.93 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 201.93 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e1fac233-0b22-4505-9ced-31b92cbc9900")
 		)
@@ -9069,8 +9197,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
-			(at -769.266 38.862 0)
+		(property "MPN" ""
+			(at 26.924 29.972 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9078,7 +9206,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 26.924 29.972 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9173,7 +9311,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+		(property "MPN" ""
+			(at 175.26 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 175.26 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -9391,8 +9540,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TL081HIDR"
-			(at 242.57 855.88 0)
+		(property "MPN" ""
+			(at 187.96 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9400,7 +9549,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 187.96 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -9591,7 +9750,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+		(property "MPN" ""
+			(at 165.1 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 165.1 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -10248,7 +10418,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 256.54 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 256.54 68.58 90)
 			(hide yes)
 			(show_name no)
@@ -10352,7 +10533,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+		(property "MPN" ""
+			(at 187.96 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 187.96 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10454,7 +10646,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF5601X"
+		(property "MPN" ""
+			(at 144.78 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 144.78 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -10536,6 +10739,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 237.49 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 237.49 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 237.49 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10804,7 +11029,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+		(property "MPN" ""
+			(at 172.72 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 172.72 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10884,6 +11120,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 127 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 127 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 127 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11145,7 +11403,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+		(property "MPN" ""
+			(at 180.34 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 180.34 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11287,8 +11556,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESQ-126-39-G-D"
-			(at 33.02 -609.5 0)
+		(property "MPN" ""
+			(at 52.07 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11296,7 +11565,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 52.07 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11542,7 +11821,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TPS2069CDBVR"
+		(property "MPN" ""
+			(at 34.29 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11653,7 +11943,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+		(property "MPN" ""
+			(at 138.43 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 138.43 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11994,7 +12295,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM155R61C474KE01D"
+		(property "MPN" ""
+			(at 143.51 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 143.51 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -12054,7 +12366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 260.0452 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -12065,7 +12377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM188R70J225KE22-01.pdf"
 			(at 259.08 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12076,7 +12388,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 6.3V X7R 0603"
+			(at 259.08 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C126582"
+			(at 259.08 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" " Murata Electronics"
+			(at 259.08 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "External Part Number" "GCM188R70J225KE22D"
 			(at 259.08 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12178,7 +12523,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF3301X"
+		(property "MPN" ""
+			(at 151.13 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 151.13 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -12283,7 +12639,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 186.69 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 186.69 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -12387,7 +12754,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+		(property "MPN" ""
+			(at 132.08 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 132.08 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12492,7 +12870,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 83.312 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 83.312 85.09 90)
 			(hide yes)
 			(show_name no)

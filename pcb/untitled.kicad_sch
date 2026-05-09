@@ -6040,8 +6040,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at 905.41 39.37 0)
+		(property "MPN" ""
+			(at 109.22 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6049,7 +6049,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 109.22 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6145,7 +6155,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "REF192GSZ"
+		(property "MPN" ""
+			(at 151.13 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 151.13 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6266,7 +6287,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 303.53 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 303.53 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -6408,8 +6440,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
-			(at -595.53 60.96 0)
+		(property "MPN" ""
+			(at 200.66 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6417,7 +6449,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 200.66 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6706,8 +6748,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
-			(at -592.99 143.51 0)
+		(property "MPN" ""
+			(at 203.2 134.62 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6715,7 +6757,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6889,7 +6941,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "REF192GSZ"
+		(property "MPN" ""
+			(at 151.13 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 151.13 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -7012,7 +7075,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 146.05 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 146.05 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7271,7 +7345,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 295.91 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 295.91 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -7376,7 +7461,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 143.51 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 143.51 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7559,7 +7655,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 208.28 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 208.28 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7737,7 +7844,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+		(property "MPN" ""
+			(at 53.34 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 53.34 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7842,7 +7960,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 210.82 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 210.82 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7943,7 +8072,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+		(property "MPN" ""
+			(at 54.61 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 54.61 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -8085,8 +8225,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at -742.85 73.66 0)
+		(property "MPN" ""
+			(at 53.34 64.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8094,7 +8234,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 53.34 64.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8247,6 +8397,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 349.25 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 349.25 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 349.25 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -8472,8 +8644,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C105K4RACAUTO"
-			(at -592.99 209.55 0)
+		(property "MPN" ""
+			(at 203.2 200.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8481,7 +8653,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8924,8 +9106,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at -739.04 222.25 0)
+		(property "MPN" ""
+			(at 57.15 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8933,7 +9115,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 57.15 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9028,7 +9220,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 294.64 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 294.64 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -9112,6 +9315,28 @@
 		)
 		(property "Description" "Solder Jumper, 3-pole, open"
 			(at 250.19 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 250.19 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 250.19 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9293,7 +9518,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+		(property "MPN" ""
+			(at 257.81 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 257.81 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -9475,7 +9711,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 210.82 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 210.82 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -9792,6 +10039,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 330.2 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 330.2 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -10210,7 +10479,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 295.91 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 295.91 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -10351,8 +10631,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "AD844JRZ-16-REEL7"
-			(at 106.68 993.04 0)
+		(property "MPN" ""
+			(at 62.23 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10360,7 +10640,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 62.23 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10478,6 +10768,28 @@
 		)
 		(property "Description" "Solder Jumper, 3-pole, open"
 			(at 257.81 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 257.81 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 257.81 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10697,8 +11009,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "AD844JRZ-16-REEL7"
-			(at 102.87 844.45 0)
+		(property "MPN" ""
+			(at 58.42 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10706,7 +11018,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 58.42 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10824,6 +11146,28 @@
 		)
 		(property "Description" "Solder Jumper, 3-pole, open"
 			(at 248.92 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 248.92 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 248.92 189.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10967,8 +11311,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
-			(at -660.3 60.96 0)
+		(property "MPN" ""
+			(at 135.89 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10976,7 +11320,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 135.89 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11071,7 +11425,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+		(property "MPN" ""
+			(at 266.7 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 266.7 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -11290,8 +11655,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at -737.77 151.13 0)
+		(property "MPN" ""
+			(at 58.42 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11299,7 +11664,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 58.42 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11471,7 +11846,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+		(property "MPN" ""
+			(at 87.63 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 87.63 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -12079,8 +12465,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
-			(at -657.76 209.55 0)
+		(property "MPN" ""
+			(at 138.43 200.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12088,7 +12474,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 138.43 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12377,8 +12773,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "AD844JRZ-16-REEL7"
-			(at 107.95 921.92 0)
+		(property "MPN" ""
+			(at 63.5 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12386,7 +12782,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 63.5 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12561,8 +12967,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FOD814SD"
-			(at 284.48 987.96 0)
+		(property "MPN" ""
+			(at 265.43 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12570,7 +12976,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 265.43 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12787,8 +13203,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FOD814SD"
-			(at 285.75 923.19 0)
+		(property "MPN" ""
+			(at 266.7 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12796,7 +13212,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 266.7 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12972,7 +13398,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1003X"
+		(property "MPN" ""
+			(at 49.53 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 49.53 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13075,7 +13512,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 303.53 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 303.53 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -13255,7 +13703,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+		(property "MPN" ""
+			(at 82.55 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 82.55 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -13397,8 +13856,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at 910.49 116.84 0)
+		(property "MPN" ""
+			(at 114.3 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13406,7 +13865,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 114.3 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13501,7 +13970,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF47R0X"
+		(property "MPN" ""
+			(at 259.08 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 259.08 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -13672,6 +14152,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 330.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 330.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04794627-7e21-4fd8-8b36-a82768c18edc")
 		)
@@ -13770,7 +14272,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+		(property "MPN" ""
+			(at 266.7 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 266.7 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -13873,7 +14386,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF1001X"
+		(property "MPN" ""
+			(at 86.36 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 86.36 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -13976,7 +14500,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+		(property "MPN" ""
+			(at 257.81 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 257.81 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -14081,7 +14616,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C103K4RACAUTO"
+		(property "MPN" ""
+			(at 146.05 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 146.05 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -14224,8 +14770,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT21BR61C106KE01L"
-			(at -657.76 143.51 0)
+		(property "MPN" ""
+			(at 138.43 134.62 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14233,7 +14779,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 138.43 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14405,7 +14961,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "REF192GSZ"
+		(property "MPN" ""
+			(at 148.59 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14604,7 +15171,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1000X"
+		(property "MPN" ""
+			(at 294.64 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 294.64 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -14707,7 +15285,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF8200X"
+		(property "MPN" ""
+			(at 259.08 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 259.08 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -15003,8 +15592,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FOD814SD"
-			(at 293.37 840.64 0)
+		(property "MPN" ""
+			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15012,7 +15601,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 274.32 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15230,8 +15829,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C0805C224K4RACAUTO"
-			(at 909.22 187.96 0)
+		(property "MPN" ""
+			(at 113.03 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15239,7 +15838,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 113.03 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

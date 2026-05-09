@@ -8278,6 +8278,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 207.01 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 207.01 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7e820635-5cd1-4ea8-84cd-3f6cf62e735f")
 		)
@@ -8367,7 +8389,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "DM3BT-DSF-PEJS"
+		(property "MPN" ""
+			(at 219.71 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 219.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8481,6 +8514,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 273.05 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 273.05 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2b0ac0e5-e5a9-4e6f-8367-11a9572c9250")
 		)
@@ -8571,7 +8626,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "STM32F103RBT7"
+		(property "MPN" ""
+			(at 99.06 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8861,7 +8927,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT188R61C106KE13D"
+		(property "MPN" ""
+			(at 17.78 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 17.78 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9120,7 +9197,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+		(property "MPN" ""
+			(at 33.02 166.878 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 33.02 166.878 0)
 			(hide yes)
 			(show_name no)
@@ -9378,7 +9466,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 49.53 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 49.53 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -9462,6 +9561,28 @@
 		)
 		(property "Description" ""
 			(at 207.01 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 207.01 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 207.01 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9560,7 +9681,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+		(property "MPN" ""
+			(at 78.74 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 78.74 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9663,7 +9795,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 118.11 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 118.11 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -9959,8 +10102,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "95C04A3GWRT"
-			(at 26.67 -731.42 0)
+		(property "MPN" ""
+			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9968,7 +10111,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 43.18 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10064,7 +10217,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+		(property "MPN" ""
+			(at 19.05 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 19.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -10312,6 +10476,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 207.01 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 207.01 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f756bb8-d530-485e-96d3-4b2da62a406e")
 		)
@@ -10401,7 +10587,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-2RKF2200X"
+		(property "MPN" ""
+			(at 63.5 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 63.5 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -10505,7 +10702,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+		(property "MPN" ""
+			(at 41.148 166.624 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 41.148 166.624 0)
 			(hide yes)
 			(show_name no)
@@ -10609,7 +10817,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 27.94 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 27.94 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10713,7 +10932,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 76.2 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 76.2 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10816,7 +11046,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 204.47 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 204.47 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -10957,8 +11198,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "LMT87DCKT"
-			(at 241.3 924.46 0)
+		(property "MPN" ""
+			(at 214.63 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10966,7 +11207,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 214.63 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -11149,7 +11400,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 63.5 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 63.5 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -11229,6 +11491,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 260.35 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 260.35 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 260.35 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11445,8 +11729,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ECS-80-18-5PX-GM-TR"
-			(at 48.26 881.28 0)
+		(property "MPN" ""
+			(at 39.37 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11454,7 +11738,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 39.37 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11941,7 +12235,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM1555C1H220JA16D"
+		(property "MPN" ""
+			(at 52.07 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 52.07 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12045,7 +12350,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+		(property "MPN" ""
+			(at 154.94 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 154.94 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -12149,7 +12465,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 39.37 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 39.37 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12233,6 +12560,28 @@
 		)
 		(property "Description" ""
 			(at 19.05 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 19.05 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 19.05 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12332,7 +12681,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "BLM18SG121TN1D"
+		(property "MPN" ""
+			(at 144.78 20.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 144.78 20.32 90)
 			(hide yes)
 			(show_name no)
@@ -12670,7 +13030,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71C104KA55D"
+		(property "MPN" ""
+			(at 52.07 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 52.07 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12773,7 +13144,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2RF1002X"
+		(property "MPN" ""
+			(at 86.36 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -12931,6 +13313,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 247.65 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 247.65 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 247.65 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -13109,7 +13513,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+		(property "MPN" ""
+			(at 128.27 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 128.27 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -13292,7 +13707,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM1555C1H221JA16D"
+		(property "MPN" ""
+			(at 214.63 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 214.63 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13395,7 +13821,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRT155R61C105KE01D"
+		(property "MPN" ""
+			(at 222.25 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 222.25 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13565,6 +14002,28 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 168.91 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 168.91 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "610c5d3c-4d4a-4070-befe-0940710c07d4")
 		)
@@ -13667,7 +14126,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+		(property "MPN" ""
+			(at 246.38 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 246.38 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13848,7 +14318,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM155R71H103KA55D"
+		(property "MPN" ""
+			(at 43.942 156.972 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 43.942 156.972 90)
 			(hide yes)
 			(show_name no)
@@ -13932,6 +14413,28 @@
 		)
 		(property "Description" ""
 			(at 207.01 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 207.01 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 207.01 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14187,7 +14690,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GCM1555C1H220JA16D"
+		(property "MPN" ""
+			(at 33.02 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 33.02 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14292,18 +14806,6 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "ltc4300a1ims8"
-			(at 43.942 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
 		(property "Manufacturer_Name" "Analog Devices"
 			(at 45.72 168.91 0)
 			(hide yes)
@@ -14315,7 +14817,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "LTC4300A-1IMS8#PBF"
+		(property "MPN" ""
+			(at 45.72 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)
