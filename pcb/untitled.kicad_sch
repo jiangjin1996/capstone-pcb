@@ -6121,7 +6121,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 151.13 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6133,7 +6133,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 151.13 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6155,7 +6155,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 151.13 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6166,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 151.13 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6254,7 +6254,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 303.53 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6265,7 +6265,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 303.53 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6287,7 +6287,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 303.53 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -6298,7 +6298,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 303.53 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -6907,7 +6907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 151.13 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -6919,7 +6919,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 151.13 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -6941,7 +6941,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 151.13 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -6952,7 +6952,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 151.13 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -7312,7 +7312,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 295.91 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7323,7 +7323,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 295.91 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7345,7 +7345,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 295.91 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -7356,7 +7356,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 295.91 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -7811,7 +7811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 53.34 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7822,7 +7822,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 53.34 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7844,7 +7844,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 53.34 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7855,7 +7855,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 53.34 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -8039,7 +8039,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 54.61 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8050,7 +8050,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 54.61 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8072,7 +8072,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 54.61 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -8083,7 +8083,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 54.61 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -9187,7 +9187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 294.64 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -9198,7 +9198,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 294.64 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -9220,7 +9220,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 294.64 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -9231,7 +9231,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 294.64 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -9485,7 +9485,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 257.81 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -9496,7 +9496,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 257.81 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -9518,7 +9518,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 257.81 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -9529,7 +9529,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 257.81 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -10446,7 +10446,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 295.91 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10457,7 +10457,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 295.91 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10479,7 +10479,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 295.91 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -10490,7 +10490,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 295.91 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -10572,7 +10572,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 62.23 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -10631,7 +10631,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 62.23 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -10642,7 +10642,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 62.23 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -10950,7 +10950,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 58.42 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11009,7 +11009,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 58.42 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11020,7 +11020,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 58.42 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11392,7 +11392,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 266.7 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11403,7 +11403,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 266.7 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11425,7 +11425,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 266.7 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -11436,7 +11436,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 266.7 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -11813,7 +11813,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 87.63 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11824,7 +11824,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 87.63 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11846,7 +11846,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 87.63 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -11857,7 +11857,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 87.63 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -12714,7 +12714,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 63.5 127 0)
 			(hide yes)
 			(show_name no)
@@ -12773,7 +12773,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 63.5 127 0)
 			(hide yes)
 			(show_name no)
@@ -12784,7 +12784,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 63.5 127 0)
 			(hide yes)
 			(show_name no)
@@ -12896,7 +12896,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 284.48 387.96 0)
 			(hide yes)
 			(show_name no)
@@ -12908,7 +12908,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 265.43 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12967,7 +12967,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 265.43 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12978,7 +12978,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 265.43 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -13132,7 +13132,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 285.75 323.19 0)
 			(hide yes)
 			(show_name no)
@@ -13144,7 +13144,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 266.7 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13203,7 +13203,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 266.7 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 266.7 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13365,7 +13365,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 49.53 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13376,7 +13376,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 49.53 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13398,7 +13398,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 49.53 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13409,7 +13409,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 49.53 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13479,7 +13479,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 303.53 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -13490,7 +13490,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 303.53 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -13512,7 +13512,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 303.53 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -13523,7 +13523,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 303.53 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -13670,7 +13670,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 82.55 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13681,7 +13681,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 82.55 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13703,7 +13703,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 82.55 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -13714,7 +13714,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 82.55 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -13937,7 +13937,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 259.08 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13948,7 +13948,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 259.08 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13970,7 +13970,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 259.08 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -13981,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 259.08 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -14239,7 +14239,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 266.7 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14250,7 +14250,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 266.7 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -14272,7 +14272,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 266.7 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -14283,7 +14283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 266.7 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -14353,7 +14353,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 86.36 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -14364,7 +14364,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 86.36 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -14386,7 +14386,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 86.36 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -14397,7 +14397,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 86.36 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -14467,7 +14467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 257.81 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14478,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 257.81 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -14500,7 +14500,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 257.81 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -14511,7 +14511,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 257.81 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -14927,7 +14927,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14939,7 +14939,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14961,7 +14961,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14972,7 +14972,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 148.59 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15138,7 +15138,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 294.64 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -15149,7 +15149,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 294.64 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -15171,7 +15171,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 294.64 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -15182,7 +15182,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 294.64 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -15252,7 +15252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 259.08 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -15263,7 +15263,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 259.08 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -15285,7 +15285,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 259.08 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -15296,7 +15296,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 259.08 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -15521,7 +15521,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 293.37 240.64 0)
 			(hide yes)
 			(show_name no)
@@ -15533,7 +15533,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15592,7 +15592,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15603,7 +15603,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)

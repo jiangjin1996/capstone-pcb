@@ -8355,7 +8355,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DM3BT-DSF-PEJS"
+		(property "Datasheet" "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DM3BT-DSF-PEJS"
 			(at 219.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8367,7 +8367,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold"
 			(at 219.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8389,7 +8389,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "DM3BT-DSF-PEJS"
 			(at 219.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8400,7 +8400,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hirose Electric Co Ltd"
 			(at 219.71 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8570,7 +8570,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32F103RBTx"
+		(property "Value" "STM32F103RBT7"
 			(at 109.22 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8593,7 +8593,7 @@
 				(justify right)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f103rb.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1139/STM32F103x8%2CB.pdf"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8604,7 +8604,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 128KB (128K x 8) FLASH 64-LQFP (10x10)"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8626,7 +8626,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "STM32F103RBT7"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8637,7 +8637,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9164,7 +9164,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 33.02 166.878 0)
 			(hide yes)
 			(show_name no)
@@ -9175,7 +9175,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 33.02 166.878 0)
 			(hide yes)
 			(show_name no)
@@ -9197,7 +9197,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 33.02 166.878 0)
 			(hide yes)
 			(show_name no)
@@ -9208,7 +9208,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 33.02 166.878 0)
 			(hide yes)
 			(show_name no)
@@ -9648,7 +9648,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 78.74 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9659,7 +9659,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 78.74 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9681,7 +9681,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 78.74 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9692,7 +9692,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 78.74 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10031,7 +10031,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://app-grayhill-website-cms-prod-001.azurewebsites.net/media/44ylkc3s/95c04-datasheet.pdf"
 			(at 26.67 -131.42 0)
 			(hide yes)
 			(show_name no)
@@ -10043,7 +10043,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10102,7 +10102,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "95C04A3GWRT"
 			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10113,7 +10113,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Grayhill Inc."
 			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10145,10 +10145,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "467dd7cd-6ff1-4ea7-a7a0-be5ebc21bd0c")
 		(property "Reference" "R2"
@@ -10184,7 +10184,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 19.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -10195,7 +10195,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 19.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -10217,7 +10217,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04022K20FKTD"
 			(at 19.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -10228,7 +10228,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 19.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -10554,7 +10554,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 63.5 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10565,7 +10565,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 63.5 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10587,7 +10587,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04022K20FKTD"
 			(at 63.5 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -10598,7 +10598,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 63.5 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -10669,7 +10669,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 41.148 166.624 0)
 			(hide yes)
 			(show_name no)
@@ -10680,7 +10680,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 41.148 166.624 0)
 			(hide yes)
 			(show_name no)
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 41.148 166.624 0)
 			(hide yes)
 			(show_name no)
@@ -10713,7 +10713,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 41.148 166.624 0)
 			(hide yes)
 			(show_name no)
@@ -11139,7 +11139,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Texas Instruments LMT87DCKT Temperature Sensor 5-Pin SC-70, -50  +150 C"
+		(property "Description" "Temperature Sensor Analog, Local -50°C ~ 150°C 13.6mV/°C SC-70-5"
 			(at 214.63 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11198,7 +11198,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LMT87DCKT"
 			(at 214.63 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11209,7 +11209,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 214.63 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11620,10 +11620,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7cb4af18-d327-4c6d-9bcf-a0e2661ac49c")
 		(property "Reference" "Y1"
@@ -12163,10 +12163,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8a333013-6877-4377-9306-df5ff75e6372")
 		(property "Reference" "C10"
@@ -12508,9 +12508,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "968f8967-2f33-4451-9859-e924772a2aff")
@@ -13111,7 +13111,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -13122,7 +13122,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -13144,7 +13144,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -13155,7 +13155,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -14618,10 +14618,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f3c94062-9c40-4521-897a-780b885205b5")
 		(property "Reference" "C11"
@@ -14749,7 +14749,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LTC4300A-1IMS8_PBF"
+		(property "Value" "LTC4300A-1IMS8#PBF"
 			(at 35.052 185.928 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14772,7 +14772,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/4300a12fa.pdf"
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14783,7 +14783,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buffer, Accelerator 2 Channel 400kHz 8-MSOP"
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14817,7 +14817,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LTC4300A-1IMS8#PBF"
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14828,7 +14828,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 45.72 168.91 0)
 			(hide yes)
 			(show_name no)

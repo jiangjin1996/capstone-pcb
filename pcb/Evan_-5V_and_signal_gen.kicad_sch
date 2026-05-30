@@ -7072,7 +7072,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/tl7660"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl7660"
 			(at 64.77 226.67 0)
 			(hide yes)
 			(show_name no)
@@ -7084,7 +7084,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Charge Pump Switching Regulator IC Positive or Negative Fixed -Vin, 2Vin 1 Output 8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)"
 			(at 38.1 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7143,7 +7143,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TL7660IDGKR"
 			(at 38.1 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7154,7 +7154,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 38.1 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7437,7 +7437,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/esq_th.pdf"
 			(at 77.47 -9.5 0)
 			(hide yes)
 			(show_name no)
@@ -7449,7 +7449,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "52 Position Elevated Socket Connector 0.100\" (2.54mm) Through Hole Gold"
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -7508,7 +7508,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ESQ-126-39-G-D"
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -7519,7 +7519,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -7968,7 +7968,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 71.628 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7979,7 +7979,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "200 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 71.628 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -8001,7 +8001,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402200RFKTD"
 			(at 71.628 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -8012,7 +8012,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 71.628 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -8672,7 +8672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 215.9 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8683,7 +8683,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 215.9 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8705,7 +8705,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 215.9 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -8716,7 +8716,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 215.9 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -9256,7 +9256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 173.99 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9278,7 +9278,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 175.26 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9289,7 +9289,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 175.26 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9311,7 +9311,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 175.26 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -9322,7 +9322,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 175.26 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -9481,7 +9481,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "JFET inputs, low input bias current"
+		(property "Description" "J-FET Amplifier 1 Circuit 8-SOIC"
 			(at 187.96 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9540,7 +9540,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TL081IDT"
 			(at 187.96 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9551,7 +9551,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 187.96 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9717,7 +9717,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 165.1 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9728,7 +9728,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 165.1 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9750,7 +9750,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 165.1 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -9761,7 +9761,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 165.1 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -10613,7 +10613,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10624,7 +10624,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "56 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10646,7 +10646,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040256K0FKTD"
 			(at 144.78 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -10657,7 +10657,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 144.78 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -10727,7 +10727,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps799-q1"
 			(at 237.49 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10738,7 +10738,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 200mA SOT-23-THIN"
 			(at 237.49 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10749,7 +10749,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TPS79933QDDCRQ1"
 			(at 237.49 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10760,7 +10760,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 237.49 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11370,7 +11370,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 180.34 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -11381,7 +11381,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 180.34 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -11403,7 +11403,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 180.34 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11414,7 +11414,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 180.34 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11485,7 +11485,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/esq_th.pdf"
 			(at 33.02 -9.5 0)
 			(hide yes)
 			(show_name no)
@@ -11497,7 +11497,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "52 Position Elevated Socket Connector 0.100\" (2.54mm) Through Hole Gold"
 			(at 52.07 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -11556,7 +11556,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ESQ-126-39-G-D"
 			(at 52.07 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -11567,7 +11567,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 52.07 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -11787,7 +11787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "TPS2069CDBVR"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps2061c"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11799,7 +11799,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power Switch/Driver 1:1 N-Channel 1.5A SOT-23-5"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11821,7 +11821,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TPS2069CDBVR"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11832,7 +11832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 34.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11910,7 +11910,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 138.43 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -11921,7 +11921,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 138.43 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -11943,7 +11943,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 138.43 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11954,7 +11954,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 138.43 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -12410,18 +12410,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" " Murata Electronics"
-			(at 259.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "External Part Number" "GCM188R70J225KE22D"
+		(property "Manufacturer" "Murata Electronics"
 			(at 259.08 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12490,7 +12479,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 151.13 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -12501,7 +12490,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 151.13 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -12523,7 +12512,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 151.13 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -12534,7 +12523,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 151.13 25.4 90)
 			(hide yes)
 			(show_name no)
