@@ -7830,7 +7830,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "150 µF ±20% 6.3V Ceramic Capacitor X5R 1210 (3225 Metric)"
 			(at 27.94 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7889,7 +7889,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL32A157MQVNNNE"
 			(at 27.94 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -7900,7 +7900,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 27.94 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -11072,9 +11072,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "c1d93e36-1d07-4c7d-aa32-4b1b0818215d")
 		(property "Reference" "J_SIG1"

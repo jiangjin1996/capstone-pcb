@@ -12648,7 +12648,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAxOTA0MDgxMzU0MTk3NjMucGRm&lan=en"
 			(at 144.78 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -12659,7 +12659,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "600 Ohms @ 100 MHz 1 Signal Line Ferrite Bead 0603 (1608 Metric) 200mA 450mOhm"
 			(at 144.78 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -12681,7 +12681,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GZ1608E601TF"
 			(at 144.78 20.32 90)
 			(hide yes)
 			(show_name no)
@@ -12692,7 +12692,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Shenzhen Sunlord Electronics Co., Ltd."
 			(at 144.78 20.32 90)
 			(hide yes)
 			(show_name no)

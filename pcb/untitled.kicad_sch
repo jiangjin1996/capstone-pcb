@@ -5981,7 +5981,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 109.22 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6040,7 +6040,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 109.22 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -6051,7 +6051,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 109.22 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -6381,7 +6381,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 200.66 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6440,7 +6440,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105J4RALTU"
 			(at 200.66 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -6451,7 +6451,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 200.66 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -6689,7 +6689,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 203.2 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6748,7 +6748,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105J4RALTU"
 			(at 203.2 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -6759,7 +6759,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 203.2 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -8166,7 +8166,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 53.34 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -8225,7 +8225,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 53.34 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -8236,7 +8236,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 53.34 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -8585,7 +8585,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 203.2 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -8644,7 +8644,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C105J4RALTU"
 			(at 203.2 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -8655,7 +8655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 203.2 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -9047,7 +9047,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 57.15 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -9106,7 +9106,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 57.15 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -9117,7 +9117,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 57.15 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -11596,7 +11596,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 58.42 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11655,7 +11655,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 58.42 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -11666,7 +11666,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 58.42 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -13797,7 +13797,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 114.3 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13856,7 +13856,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 114.3 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -13867,7 +13867,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 114.3 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -15770,7 +15770,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.22 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 113.03 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -15829,7 +15829,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C224J4RALTU"
 			(at 113.03 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -15840,7 +15840,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 113.03 196.85 90)
 			(hide yes)
 			(show_name no)
