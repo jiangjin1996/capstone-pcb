@@ -7041,7 +7041,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 146.05 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7053,7 +7053,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 146.05 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7075,7 +7075,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 146.05 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7086,7 +7086,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 146.05 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7427,7 +7427,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 143.51 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7439,7 +7439,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 143.51 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7461,7 +7461,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 143.51 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7472,7 +7472,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 143.51 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7621,7 +7621,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 208.28 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7633,7 +7633,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 208.28 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7655,7 +7655,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 208.28 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7666,7 +7666,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 208.28 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7926,7 +7926,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 210.82 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7938,7 +7938,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 210.82 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7960,7 +7960,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 210.82 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -7971,7 +7971,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 210.82 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -9677,7 +9677,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 210.82 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9689,7 +9689,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 210.82 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9711,7 +9711,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 210.82 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -9722,7 +9722,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 210.82 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -11240,7 +11240,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at -60.3 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11252,7 +11252,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 135.89 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11311,7 +11311,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 135.89 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -11322,7 +11322,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 135.89 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -12394,7 +12394,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at -57.76 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -12406,7 +12406,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 138.43 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -12465,7 +12465,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 138.43 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -12476,7 +12476,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 138.43 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -14582,7 +14582,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 146.05 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14594,7 +14594,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 146.05 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14616,7 +14616,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 146.05 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -14627,7 +14627,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 146.05 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -14699,7 +14699,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at -57.76 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -14711,7 +14711,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 138.43 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -14770,7 +14770,7 @@
 				(justify left top)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 138.43 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -14781,7 +14781,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 138.43 134.62 90)
 			(hide yes)
 			(show_name no)

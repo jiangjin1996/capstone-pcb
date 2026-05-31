@@ -685,15 +685,15 @@
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Manufacturer"
+      "sort_asc": true,
+      "sort_field": "Footprint"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,

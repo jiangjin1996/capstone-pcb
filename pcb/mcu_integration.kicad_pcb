@@ -185,7 +185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -197,7 +197,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -248,7 +248,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -261,7 +261,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -411,7 +411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -423,7 +423,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -473,7 +473,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -486,7 +486,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -636,7 +636,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -648,7 +648,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -699,7 +699,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -712,7 +712,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -862,7 +862,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -874,7 +874,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -924,7 +924,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C475J4RACTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -937,7 +937,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1326,7 +1326,7 @@
 				)
 			)
 		)
-		(property "Description" "JFET inputs, low input bias current"
+		(property "Description" "J-FET Amplifier 1 Circuit 8-SOIC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1403,7 +1403,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TL081IDT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1416,7 +1416,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1815,7 +1815,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1827,7 +1827,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1899,7 +1899,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1912,7 +1912,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2177,7 +2177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2189,7 +2189,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2240,7 +2240,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2403,7 +2403,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2415,7 +2415,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.47 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2466,7 +2466,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KGM05AR51A474KH"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2479,7 +2479,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2618,7 +2618,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1d245d37-f18b-4da3-bcdd-21a4f457be1f")
@@ -2629,7 +2629,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2642,7 +2642,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2694,7 +2694,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2707,7 +2707,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3071,7 +3071,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at -0.01 -1.31 0)
 			(layer "F.Fab")
 			(uuid "08b6cea2-662a-434e-b271-98025dea0b29")
@@ -3082,7 +3082,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3095,7 +3095,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3147,7 +3147,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3160,7 +3160,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10217,7 +10217,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10229,7 +10229,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10280,7 +10280,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10293,7 +10293,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10672,7 +10672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10684,7 +10684,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10722,7 +10722,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10735,7 +10735,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11442,7 +11442,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11454,7 +11454,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10000 pF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11505,7 +11505,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C103J4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11518,7 +11518,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11961,7 +11961,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "c987fc5a-c2ab-484f-9510-a1ad87845a0b")
@@ -11972,7 +11972,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11985,7 +11985,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12037,7 +12037,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12050,7 +12050,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12506,7 +12506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12518,7 +12518,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10000 pF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12569,7 +12569,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C103J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12582,7 +12582,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12732,7 +12732,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12744,7 +12744,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10000 pF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12768,7 +12768,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C103J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12781,7 +12781,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12944,7 +12944,7 @@
 				)
 			)
 		)
-		(property "Description" "Texas Instruments LMT87DCKT Temperature Sensor 5-Pin SC-70, -50  +150 C"
+		(property "Description" "Temperature Sensor Analog, Local -50°C ~ 150°C 13.6mV/°C SC-70-5"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13021,7 +13021,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LMT87DCKT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13034,7 +13034,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13257,7 +13257,7 @@
 				)
 			)
 		)
-		(property "Value" "0.22n"
+		(property "Value" "220p"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "32f9d728-7330-41ac-837f-95da69ced77e")
@@ -13268,7 +13268,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13280,7 +13280,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "220 pF ±10% 10V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13331,7 +13331,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C221K8RACTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13344,7 +13344,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13483,7 +13483,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 3.27 0 90)
 			(layer "F.Fab")
 			(uuid "3bbec065-9c86-4298-ab66-59eb4ebc9ec7")
@@ -13494,7 +13494,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13506,7 +13506,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13557,7 +13557,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13570,7 +13570,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13718,7 +13718,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps799-q1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13730,7 +13730,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Linear Voltage Regulator IC Positive Fixed 1 Output 200mA SOT-23-THIN"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13742,7 +13742,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TPS79933QDDCRQ1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13755,7 +13755,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14010,7 +14010,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14023,7 +14023,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "56 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14075,7 +14075,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040256K0FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14088,7 +14088,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14238,7 +14238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14250,7 +14250,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14301,7 +14301,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0402ZD105KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14314,7 +14314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14453,7 +14453,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32F103RBTx"
+		(property "Value" "STM32F103RBT7"
 			(at 0 7.4 0)
 			(layer "F.Fab")
 			(uuid "521717a2-da41-41dd-a724-80551857df98")
@@ -14464,7 +14464,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f103rb.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1139/STM32F103x8%2CB.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14476,7 +14476,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 128KB (128K x 8) FLASH 64-LQFP (10x10)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14527,7 +14527,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "STM32F103RBT7"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14540,7 +14540,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15579,7 +15579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -15591,7 +15591,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -15642,7 +15642,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0402ZD105KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15655,7 +15655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15805,7 +15805,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15818,7 +15818,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15909,7 +15909,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15922,7 +15922,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16062,7 +16062,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "0.01u"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "173f20ba-36c1-41b5-9e56-ef9bf147caad")
@@ -16073,7 +16073,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16085,7 +16085,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10000 pF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16136,7 +16136,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C103J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16149,7 +16149,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16300,7 +16300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -16312,7 +16312,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -16350,7 +16350,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16363,7 +16363,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17550,7 +17550,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17563,7 +17563,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17615,7 +17615,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17628,7 +17628,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17778,7 +17778,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17790,7 +17790,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17841,7 +17841,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04022K20FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17854,7 +17854,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18467,7 +18467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://app-grayhill-website-cms-prod-001.azurewebsites.net/media/44ylkc3s/95c04-datasheet.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18479,7 +18479,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18556,7 +18556,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "95C04A3GWRT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18569,7 +18569,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Grayhill Inc."
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18747,7 +18747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18760,7 +18760,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18812,7 +18812,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18825,7 +18825,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18964,7 +18964,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 3.13 -0.05 90)
 			(layer "F.Fab")
 			(uuid "fca76ffb-2a59-4f0c-ab1c-d0c5d7c7780e")
@@ -18975,7 +18975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18987,7 +18987,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19038,7 +19038,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19051,7 +19051,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19342,7 +19342,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/esq_th.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19354,7 +19354,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "52 Position Elevated Socket Connector 0.100\" (2.54mm) Through Hole Gold"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19431,7 +19431,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19444,7 +19444,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20251,7 +20251,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20264,7 +20264,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20355,7 +20355,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20368,7 +20368,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20658,7 +20658,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20671,7 +20671,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20723,7 +20723,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20736,7 +20736,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20886,7 +20886,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20898,7 +20898,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20949,7 +20949,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20962,7 +20962,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21110,7 +21110,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/tl7660"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl7660"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21122,7 +21122,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Charge Pump Switching Regulator IC Positive or Negative Fixed -Vin, 2Vin 1 Output 8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21194,7 +21194,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TL7660IDGKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21207,7 +21207,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21911,7 +21911,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21923,7 +21923,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21974,7 +21974,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21987,7 +21987,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22150,7 +22150,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22222,7 +22222,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22235,7 +22235,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22610,7 +22610,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22623,7 +22623,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22675,7 +22675,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22688,7 +22688,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22838,7 +22838,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22850,7 +22850,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.47 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22901,7 +22901,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KGM05AR51A474KH"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22914,7 +22914,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23051,7 +23051,7 @@
 				)
 			)
 		)
-		(property "Value" "LTC4300A-1IMS8_PBF"
+		(property "Value" "LTC4300A-1IMS8#PBF"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6cc4903d-10b5-4cd8-9bb8-6a164c1e1883")
@@ -23062,7 +23062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/4300a12fa.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23074,7 +23074,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buffer, Accelerator 2 Channel 400kHz 8-MSOP"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23138,7 +23138,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LTC4300A-1IMS8#PBF"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23151,7 +23151,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23795,7 +23795,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23867,7 +23867,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23880,7 +23880,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24244,7 +24244,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 3.27 -0.03 0)
 			(layer "F.Fab")
 			(uuid "4c259308-73e8-4e3c-84db-75c2114a33be")
@@ -24255,7 +24255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24267,7 +24267,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24318,7 +24318,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24331,7 +24331,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24481,7 +24481,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24493,7 +24493,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24543,7 +24543,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24556,7 +24556,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24707,7 +24707,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "DM3BT-DSF-PEJS"
+		(property "Datasheet" "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=DM3BT-DSF-PEJS"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24719,7 +24719,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24757,7 +24757,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "DM3BT-DSF-PEJS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24770,7 +24770,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Hirose Electric Co Ltd"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25480,7 +25480,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25492,7 +25492,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25543,7 +25543,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25556,7 +25556,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25819,7 +25819,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25831,7 +25831,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.47 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25882,7 +25882,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KGM05AR51A474KH"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25895,7 +25895,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26142,7 +26142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26154,7 +26154,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "200 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26205,7 +26205,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402200RFKTD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26218,7 +26218,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26369,7 +26369,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "REF192GSZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/REF19XSERIES.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26381,7 +26381,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Series Voltage Reference IC Fixed 2.5V V ±0.4% 30 mA 8-SOIC"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26419,7 +26419,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "REF192GSZ"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26432,7 +26432,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27140,7 +27140,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -27152,7 +27152,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -27224,7 +27224,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27237,7 +27237,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27502,7 +27502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27514,7 +27514,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.47 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27565,7 +27565,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KGM05AR51A474KH"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27578,7 +27578,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28176,7 +28176,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current Feedback Amplifier 1 Circuit 16-SOIC"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28248,7 +28248,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "AD844JRZ-16-REEL7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28261,7 +28261,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices Inc."
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28625,7 +28625,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 0.02 -3.12 0)
 			(layer "F.Fab")
 			(uuid "788855f7-e2c1-4cde-9ff2-e1ecabe255f4")
@@ -28636,7 +28636,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28649,7 +28649,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28701,7 +28701,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28714,7 +28714,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29266,7 +29266,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "TPS2069CDBVR"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps2061c"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29278,7 +29278,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power Switch/Driver 1:1 N-Channel 1.5A SOT-23-5"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29316,7 +29316,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TPS2069CDBVR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29329,7 +29329,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29883,7 +29883,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FOD814-D.PDF"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/fod814-d.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29895,7 +29895,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29967,7 +29967,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "FOD814SD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29980,7 +29980,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30384,7 +30384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -30396,7 +30396,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -30446,7 +30446,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30459,7 +30459,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30598,7 +30598,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 2.794 0 0)
 			(layer "F.Fab")
 			(uuid "093fc764-c760-492a-b1a8-420c3f52984d")
@@ -30609,7 +30609,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -30621,7 +30621,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -30672,7 +30672,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30685,7 +30685,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31087,7 +31087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1006_X5R_SMD"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31099,7 +31099,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±20% 6.3V Ceramic Capacitor X5R 0603 (1608 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31150,7 +31150,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0603C106M9PACTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31163,7 +31163,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31686,7 +31686,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31698,7 +31698,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31749,7 +31749,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040210K0FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31762,7 +31762,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35390,7 +35390,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1u"
 			(at 0.5 3.3 0)
 			(layer "F.Fab")
 			(uuid "8a8111cb-59af-4e3b-b881-d10f5935074e")
@@ -35401,7 +35401,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35413,7 +35413,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35464,7 +35464,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35477,7 +35477,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35627,7 +35627,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/cx5r-KGM.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35639,7 +35639,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 µF ±10% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35690,7 +35690,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "0402ZD105KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35703,7 +35703,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35853,7 +35853,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM188R70J225KE22-01.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35864,7 +35864,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 2.2UF 6.3V X7R 0603"
+		(property "Description" "2.2 µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35887,7 +35887,7 @@
 				)
 			)
 		)
-		(property "MPN" "C126582"
+		(property "MPN" "C0603C225K8RACTU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35900,7 +35900,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" " Murata Electronics"
+		(property "Manufacturer" "KEMET"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36078,7 +36078,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/esq_th.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36090,7 +36090,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "52 Position Elevated Socket Connector 0.100\" (2.54mm) Through Hole Gold"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36167,7 +36167,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ESQ-126-39-G-D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36180,7 +36180,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samtec Inc."
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36998,7 +36998,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37010,7 +37010,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37034,7 +37034,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0402C104J4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37047,7 +37047,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37197,7 +37197,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37210,7 +37210,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "3.3 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37262,7 +37262,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04023K30FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37275,7 +37275,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37427,7 +37427,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37440,7 +37440,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -37495,7 +37495,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37509,7 +37509,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38178,7 +38178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -38191,7 +38191,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -38245,7 +38245,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38259,7 +38259,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38414,7 +38414,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38427,7 +38427,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -38482,7 +38482,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38496,7 +38496,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38959,7 +38959,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38973,7 +38973,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39071,7 +39071,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39085,7 +39085,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39241,7 +39241,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -39254,7 +39254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -39308,7 +39308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39322,7 +39322,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39889,7 +39889,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -39902,7 +39902,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -39957,7 +39957,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39971,7 +39971,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40435,7 +40435,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40448,7 +40448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40503,7 +40503,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40517,7 +40517,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40672,7 +40672,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40685,7 +40685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40739,7 +40739,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40753,7 +40753,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41217,7 +41217,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41230,7 +41230,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41285,7 +41285,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41299,7 +41299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41454,7 +41454,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -41467,7 +41467,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -41522,7 +41522,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41536,7 +41536,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41691,7 +41691,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41704,7 +41704,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41759,7 +41759,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100KFKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41773,7 +41773,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41928,7 +41928,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41941,7 +41941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -41996,7 +41996,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42010,7 +42010,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42165,7 +42165,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42178,7 +42178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42233,7 +42233,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42247,7 +42247,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42402,7 +42402,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42415,7 +42415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42469,7 +42469,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42483,7 +42483,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42638,7 +42638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42651,7 +42651,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -42706,7 +42706,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW040247R0FKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42720,7 +42720,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42875,7 +42875,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42889,7 +42889,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42987,7 +42987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43001,7 +43001,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43157,7 +43157,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43170,7 +43170,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43225,7 +43225,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402820RFKED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43239,7 +43239,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43394,7 +43394,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43407,7 +43407,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -43462,7 +43462,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW04021K00FKTD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43476,7 +43476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43631,7 +43631,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43644,7 +43644,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43699,7 +43699,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43713,7 +43713,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43868,7 +43868,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43882,7 +43882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43980,7 +43980,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C106M4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43994,7 +43994,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46299,7 +46299,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46312,7 +46312,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -46366,7 +46366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46380,7 +46380,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46844,7 +46844,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "C0805C104K5RAC7210"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1018_X7R_SnPb_SMD"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -46857,7 +46857,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1 µF ±5% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -46911,7 +46911,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C0805C104J4RALTU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46925,7 +46925,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48624,7 +48624,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/20008/dcrcw.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -48637,7 +48637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -48692,7 +48692,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CRCW0402100RFKTD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48706,7 +48706,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -62756,6 +62756,80 @@
 		)
 	)
 	(zone
+		(net "+5V_EXT")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30004)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 125.297747 55.364913) (xy 125.189562 55.46625) (xy 125.09005 55.546115) (xy 125.000596 55.605726)
+				(xy 124.91602 55.650992) (xy 124.747099 55.711768) (xy 124.5621 55.750125) (xy 124.427196 55.775987)
+				(xy 124.277666 55.813862) (xy 124.107603 55.87419) (xy 123.911098 55.967415) (xy 124.296484 56.698516)
+				(xy 125.027585 57.083902) (xy 125.143166 56.830455) (xy 125.211638 56.601146) (xy 125.244874 56.4329)
+				(xy 125.279598 56.262043) (xy 125.337788 56.092433) (xy 125.383927 56.003431) (xy 125.445825 55.909144)
+				(xy 125.526779 55.807707) (xy 125.630087 55.697253)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 125.297747 55.364913) (xy 125.189562 55.46625) (xy 125.09005 55.546115) (xy 125.000596 55.605726)
+				(xy 124.91602 55.650992) (xy 124.747099 55.711768) (xy 124.5621 55.750125) (xy 124.427196 55.775987)
+				(xy 124.277666 55.813862) (xy 124.107603 55.87419) (xy 123.911098 55.967415) (xy 124.296484 56.698516)
+				(xy 125.027585 57.083902) (xy 125.143166 56.830455) (xy 125.211638 56.601146) (xy 125.244874 56.4329)
+				(xy 125.279598 56.262043) (xy 125.337788 56.092433) (xy 125.383927 56.003431) (xy 125.445825 55.909144)
+				(xy 125.526779 55.807707) (xy 125.630087 55.697253)
+			)
+		)
+	)
+	(zone
+		(net "+5V_EXT")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30001)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 123.8 57.588973) (xy 123.794863 57.857791) (xy 123.778907 58.063006) (xy 123.758206 58.195992)
+				(xy 123.729896 58.317045) (xy 123.642404 58.590593) (xy 123.510524 58.995515) (xy 124.3 59.239973)
+				(xy 125.089476 58.995515) (xy 124.957597 58.590596) (xy 124.885868 58.37231) (xy 124.836928 58.170012)
+				(xy 124.808923 57.9276) (xy 124.8 57.588973)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 123.8 57.588973) (xy 123.794863 57.857791) (xy 123.778907 58.063006) (xy 123.758206 58.195992)
+				(xy 123.729896 58.317045) (xy 123.642404 58.590593) (xy 123.510524 58.995515) (xy 124.3 59.239973)
+				(xy 125.089476 58.995515) (xy 124.957597 58.590596) (xy 124.885868 58.37231) (xy 124.836928 58.170012)
+				(xy 124.808923 57.9276) (xy 124.8 57.588973)
+			)
+		)
+	)
+	(zone
 		(net "Net-(J_SIG1-Pin_1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
@@ -62853,98 +62927,6 @@
 		)
 	)
 	(zone
-		(net "+5V_EXT")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30001)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 123.8 57.588973) (xy 123.794863 57.857791) (xy 123.778907 58.063006) (xy 123.758206 58.195992)
-				(xy 123.729896 58.317045) (xy 123.642404 58.590593) (xy 123.510524 58.995515) (xy 124.3 59.239973)
-				(xy 125.089476 58.995515) (xy 124.957597 58.590596) (xy 124.885868 58.37231) (xy 124.836928 58.170012)
-				(xy 124.808923 57.9276) (xy 124.8 57.588973)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 124.796877 57.5924) (xy 124.8003 57.600365) (xy 124.808922 57.927592) (xy 124.836927 58.17001)
-				(xy 124.885864 58.372298) (xy 124.885871 58.372319) (xy 124.957587 58.590566) (xy 124.957592 58.590597)
-				(xy 124.957597 58.590596) (xy 125.085799 58.984227) (xy 125.085102 58.993154) (xy 125.078297 58.998975)
-				(xy 125.078135 58.999026) (xy 124.303461 59.238901) (xy 124.296539 59.238901) (xy 123.521864 58.999026)
-				(xy 123.514975 58.993306) (xy 123.514149 58.984389) (xy 123.5142 58.984227) (xy 123.642404 58.590593)
-				(xy 123.729896 58.317045) (xy 123.758206 58.195992) (xy 123.778907 58.063006) (xy 123.794863 57.857791)
-				(xy 123.799781 57.600449) (xy 123.803365 57.592243) (xy 123.811479 57.588973) (xy 124.788604 57.588973)
-			)
-		)
-	)
-	(zone
-		(net "I2C_SCL(2)")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30005)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 159.03 66.380098) (xy 158.986066 65.401066) (xy 159.072394 65.321616) (xy 159.152031 65.261837)
-				(xy 159.222239 65.22112) (xy 159.289216 65.193128) (xy 159.423629 65.165796) (xy 159.590022 65.163876)
-				(xy 159.813138 65.160263) (xy 159.946507 65.142201) (xy 160.099485 65.104476) (xy 159.863516 64.311484)
-				(xy 159.070524 64.075515) (xy 159.022151 64.294213) (xy 159.009685 64.497981) (xy 159.011123 64.584978)
-				(xy 159.010683 64.731016) (xy 158.986519 64.871446) (xy 158.958268 64.943734) (xy 158.915359 65.019631)
-				(xy 158.854884 65.100808) (xy 158.773934 65.188934) (xy 158.73 65.295) (xy 158.73 66.380098)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 159.084474 64.079665) (xy 159.855216 64.309013) (xy 159.859252 64.311144) (xy 159.861931 64.313319)
-				(xy 159.865771 64.319065) (xy 160.095321 65.090486) (xy 160.095744 65.095032) (xy 160.09556 65.096803)
-				(xy 160.091298 65.104677) (xy 160.090117 65.105636) (xy 160.085543 65.107913) (xy 159.947411 65.141977)
-				(xy 159.946781 65.142114) (xy 159.946172 65.142229) (xy 159.945571 65.142326) (xy 159.81417 65.160122)
-				(xy 159.81348 65.160195) (xy 159.812777 65.160248) (xy 159.812086 65.160279) (xy 159.590062 65.163875)
-				(xy 159.589873 65.163877) (xy 159.58987 65.163877) (xy 159.423624 65.165794) (xy 159.289211 65.193128)
-				(xy 159.222248 65.221114) (xy 159.222247 65.221114) (xy 159.15234 65.261657) (xy 159.152197 65.261734)
-				(xy 159.152026 65.26184) (xy 159.072388 65.32162) (xy 158.986066 65.401065) (xy 158.986066 65.401078)
-				(xy 159.029346 66.365547) (xy 159.028657 66.370061) (xy 159.028049 66.371737) (xy 159.022015 66.378341)
-				(xy 159.022007 66.378344) (xy 159.022006 66.378346) (xy 159.022004 66.378346) (xy 159.020626 66.378992)
-				(xy 159.015661 66.380098) (xy 158.744027 66.380098) (xy 158.73955 66.379207) (xy 158.737901 66.378524)
-				(xy 158.7379 66.378524) (xy 158.737898 66.378523) (xy 158.734733 66.375355) (xy 158.731572 66.372193)
-				(xy 158.730889 66.370543) (xy 158.73 66.36607) (xy 158.73 65.298478) (xy 158.730224 65.296198) (xy 158.730668 65.293967)
-				(xy 158.731328 65.291792) (xy 158.743735 65.26184) (xy 158.77275 65.19179) (xy 158.773691 65.189983)
-				(xy 158.774781 65.188275) (xy 158.77602 65.186662) (xy 158.854877 65.100816) (xy 158.854877 65.100814)
-				(xy 158.854961 65.100726) (xy 158.855014 65.100669) (xy 158.855236 65.100335) (xy 158.915359 65.019631)
-				(xy 158.958268 64.943734) (xy 158.986519 64.871446) (xy 159.010683 64.731016) (xy 159.011123 64.584978)
-				(xy 159.009695 64.498609) (xy 159.009695 64.498241) (xy 159.009706 64.497738) (xy 159.009721 64.497365)
-				(xy 159.022067 64.295563) (xy 159.022158 64.294669) (xy 159.022283 64.293779) (xy 159.022442 64.292891)
-				(xy 159.067307 64.090053) (xy 159.069142 64.085878) (xy 159.070165 64.084417) (xy 159.077714 64.079604)
-				(xy 159.079106 64.079358)
-			)
-		)
-	)
-	(zone
 		(layer "F.Cu")
 		(uuid "67ea3eb8-a8d9-4af5-8dd4-17bd63570df0")
 		(name "Keepout")
@@ -62977,42 +62959,33 @@
 		)
 	)
 	(zone
-		(net "+5V_EXT")
 		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30000)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
+		(uuid "8048a757-9122-42c3-be58-8b98f18031b5")
+		(name "KEEPOUT")
+		(hatch edge 0.5)
+		(connect_pads
 			(clearance 0)
 		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "/")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
 		)
 		(polygon
 			(pts
-				(xy 122.653973 59.735) (xy 122.922792 59.740137) (xy 123.128008 59.756093) (xy 123.260994 59.776794)
-				(xy 123.382047 59.805104) (xy 123.655596 59.892597) (xy 124.060515 60.024476) (xy 124.304973 59.235)
-				(xy 124.060515 58.445524) (xy 123.655593 58.577404) (xy 123.437308 58.649132) (xy 123.23501 58.698072)
-				(xy 122.992599 58.726077) (xy 122.653973 58.735)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 124.058154 58.449897) (xy 124.063975 58.456702) (xy 124.064026 58.456864) (xy 124.303901 59.231539)
-				(xy 124.303901 59.238461) (xy 124.064026 60.013135) (xy 124.058306 60.020024) (xy 124.049389 60.02085)
-				(xy 124.049227 60.020799) (xy 123.825605 59.947967) (xy 123.655596 59.892597) (xy 123.560645 59.862227)
-				(xy 123.382058 59.805107) (xy 123.38205 59.805105) (xy 123.382047 59.805104) (xy 123.334899 59.794077)
-				(xy 123.260996 59.776794) (xy 123.211961 59.769161) (xy 123.128008 59.756093) (xy 123.008364 59.74679)
-				(xy 122.922782 59.740136) (xy 122.665449 59.735219) (xy 122.657243 59.731635) (xy 122.653973 59.723521)
-				(xy 122.653973 58.746395) (xy 122.6574 58.738122) (xy 122.665362 58.734699) (xy 122.992599 58.726077)
-				(xy 123.23501 58.698072) (xy 123.437308 58.649132) (xy 123.655565 58.577413) (xy 123.655596 58.577415)
-				(xy 123.655593 58.577404) (xy 124.049228 58.4492)
+				(xy 134.76 112.425) (xy 135.39 113.195) (xy 135.88 112.735) (xy 134.97 112.075) (xy 134.76 112.435)
 			)
 		)
 	)
@@ -63046,133 +63019,12 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 158.106605 64.079944) (xy 158.112249 64.086896) (xy 158.112399 64.08745) (xy 158.146613 64.227134)
-				(xy 158.146851 64.228403) (xy 158.163991 64.35978) (xy 158.164089 64.361204) (xy 158.165785 64.582595)
-				(xy 158.165785 64.582661) (xy 158.166122 64.7468) (xy 158.19208 64.879787) (xy 158.192082 64.879794)
-				(xy 158.219315 64.945984) (xy 158.219316 64.945985) (xy 158.259182 65.015329) (xy 158.259185 65.015334)
-				(xy 158.317881 65.093874) (xy 158.317882 65.093875) (xy 158.394664 65.177409) (xy 158.396859 65.18085)
-				(xy 158.439109 65.282848) (xy 158.44 65.287325) (xy 158.44 66.37254) (xy 158.436573 66.380813) (xy 158.4283 66.38424)
-				(xy 158.152229 66.38424) (xy 158.143956 66.380813) (xy 158.140529 66.37254) (xy 158.14054 66.372023)
-				(xy 158.183934 65.391066) (xy 158.097042 65.311358) (xy 158.09704 65.311356) (xy 158.097033 65.31135)
-				(xy 158.09703 65.311348) (xy 158.016936 65.251963) (xy 158.016935 65.251962) (xy 157.941961 65.209983)
-				(xy 157.915033 65.199646) (xy 157.870528 65.182562) (xy 157.870526 65.182561) (xy 157.870521 65.18256)
-				(xy 157.73175 65.159848) (xy 157.731748 65.159848) (xy 157.722447 65.159908) (xy 157.587566 65.160785)
-				(xy 157.496768 65.163077) (xy 157.495814 65.163062) (xy 157.296756 65.151833) (xy 157.294904 65.151579)
-				(xy 157.092807 65.107176) (xy 157.085462 65.102054) (xy 157.083891 65.093238) (xy 157.084098 65.092433)
-				(xy 157.314678 64.317552) (xy 157.320321 64.310602) (xy 157.322547 64.309679) (xy 158.097699 64.079019)
-			)
-		)
-	)
-	(zone
-		(net "+5V_EXT")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30004)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 125.297747 55.364913) (xy 125.189562 55.46625) (xy 125.09005 55.546115) (xy 125.000596 55.605726)
-				(xy 124.91602 55.650992) (xy 124.747099 55.711768) (xy 124.5621 55.750125) (xy 124.427196 55.775987)
-				(xy 124.277666 55.813862) (xy 124.107603 55.87419) (xy 123.911098 55.967415) (xy 124.296484 56.698516)
-				(xy 125.027585 57.083902) (xy 125.143166 56.830455) (xy 125.211638 56.601146) (xy 125.244874 56.4329)
-				(xy 125.279598 56.262043) (xy 125.337788 56.092433) (xy 125.383927 56.003431) (xy 125.445825 55.909144)
-				(xy 125.526779 55.807707) (xy 125.630087 55.697253)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 125.305753 55.372919) (xy 125.622085 55.689251) (xy 125.625512 55.697524) (xy 125.622357 55.705516)
-				(xy 125.526784 55.8077) (xy 125.445827 55.90914) (xy 125.383928 56.003428) (xy 125.337789 56.092429)
-				(xy 125.279597 56.262045) (xy 125.244868 56.432931) (xy 125.211747 56.600593) (xy 125.21148 56.601674)
-				(xy 125.143395 56.829684) (xy 125.142829 56.831191) (xy 125.032725 57.072629) (xy 125.026175 57.078734)
-				(xy 125.017225 57.078419) (xy 125.016624 57.078124) (xy 124.299688 56.700205) (xy 124.294795 56.695312)
-				(xy 123.916787 55.978208) (xy 123.915962 55.969294) (xy 123.921682 55.962405) (xy 123.922101 55.962194)
-				(xy 124.107072 55.874441) (xy 124.108154 55.873994) (xy 124.27716 55.814041) (xy 124.278188 55.813729)
-				(xy 124.426881 55.776066) (xy 124.427512 55.775926) (xy 124.5621 55.750125) (xy 124.595948 55.743106)
-				(xy 124.747096 55.711769) (xy 124.747099 55.711768) (xy 124.91602 55.650992) (xy 125.000596 55.605726)
-				(xy 125.09005 55.546115) (xy 125.189562 55.46625) (xy 125.289485 55.372651) (xy 125.297862 55.369498)
-			)
-		)
-	)
-	(zone
-		(net "+5V_EXT")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30003)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 124.8 58.341027) (xy 124.805137 58.072207) (xy 124.821093 57.866991) (xy 124.841794 57.734005)
-				(xy 124.870104 57.612952) (xy 124.957597 57.339402) (xy 125.089476 56.934485) (xy 124.3 56.690027)
-				(xy 123.510524 56.934485) (xy 123.642403 57.339406) (xy 123.714132 57.557691) (xy 123.763072 57.759989)
-				(xy 123.791077 58.0024) (xy 123.8 58.341027)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 125.078135 56.930973) (xy 125.085024 56.936693) (xy 125.08585 56.94561) (xy 125.085799 56.945772)
-				(xy 125.000241 57.208468) (xy 124.957606 57.339376) (xy 124.957588 57.339431) (xy 124.870107 57.61294)
-				(xy 124.870105 57.612948) (xy 124.841794 57.734002) (xy 124.821094 57.866987) (xy 124.821093 57.866994)
-				(xy 124.805136 58.072216) (xy 124.800219 58.329551) (xy 124.796635 58.337757) (xy 124.788521 58.341027)
-				(xy 123.811396 58.341027) (xy 123.803123 58.3376) (xy 123.7997 58.329635) (xy 123.791077 58.002407)
-				(xy 123.791077 58.0024) (xy 123.763072 57.759989) (xy 123.714132 57.557691) (xy 123.665009 57.408201)
-				(xy 123.642403 57.339405) (xy 123.642393 57.339376) (xy 123.5142 56.945772) (xy 123.514897 56.936845)
-				(xy 123.521702 56.931024) (xy 123.521744 56.93101) (xy 124.296541 56.691098) (xy 124.303459 56.691098)
-			)
-		)
-	)
-	(zone
-		(layer "F.Cu")
-		(uuid "8048a757-9122-42c3-be58-8b98f18031b5")
-		(name "KEEPOUT")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(keepout
-			(tracks allowed)
-			(vias allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "/")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 0)
-		)
-		(polygon
-			(pts
-				(xy 134.76 112.425) (xy 135.39 113.195) (xy 135.88 112.735) (xy 134.97 112.075) (xy 134.76 112.435)
+				(xy 158.44 66.38424) (xy 158.44 65.285) (xy 158.396066 65.178934) (xy 158.317883 65.093876) (xy 158.259185 65.015334)
+				(xy 158.219315 64.945982) (xy 158.192081 64.879791) (xy 158.166123 64.746801) (xy 158.165785 64.582595)
+				(xy 158.164084 64.36049) (xy 158.146768 64.227765) (xy 158.109476 64.075515) (xy 157.316484 64.311484)
+				(xy 157.080515 65.104476) (xy 157.29582 65.151781) (xy 157.496293 65.16309) (xy 157.587595 65.160785)
+				(xy 157.731748 65.159848) (xy 157.870528 65.182562) (xy 157.941963 65.209984) (xy 158.016926 65.251957)
+				(xy 158.097042 65.311358) (xy 158.183934 65.391066) (xy 158.14 66.38424)
 			)
 		)
 	)
@@ -70423,44 +70275,6 @@
 		)
 	)
 	(zone
-		(net "+5V_EXT")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30002)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 123.406027 58.735) (xy 123.137209 58.729863) (xy 122.931993 58.713907) (xy 122.799007 58.693206)
-				(xy 122.677954 58.664896) (xy 122.404406 58.577403) (xy 121.999485 58.445524) (xy 121.755027 59.235)
-				(xy 121.999485 60.024476) (xy 122.404402 59.892597) (xy 122.622689 59.820868) (xy 122.824987 59.771928)
-				(xy 123.067399 59.743923) (xy 123.406027 59.735)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 122.010765 58.449197) (xy 122.404406 58.577403) (xy 122.677954 58.664896) (xy 122.799007 58.693206)
-				(xy 122.931993 58.713907) (xy 123.137209 58.729863) (xy 123.394551 58.73478) (xy 123.402757 58.738364)
-				(xy 123.406027 58.746478) (xy 123.406027 59.723604) (xy 123.4026 59.731877) (xy 123.394635 59.7353)
-				(xy 123.067406 59.743922) (xy 122.824988 59.771927) (xy 122.6227 59.820864) (xy 122.622679 59.820871)
-				(xy 122.404431 59.892587) (xy 122.404402 59.892597) (xy 122.010772 60.020799) (xy 122.001845 60.020102)
-				(xy 121.996024 60.013297) (xy 121.995973 60.013135) (xy 121.958646 59.892587) (xy 121.756098 59.238458)
-				(xy 121.756098 59.231541) (xy 121.995973 58.456862) (xy 122.001693 58.449975) (xy 122.01061 58.449149)
-			)
-		)
-	)
-	(zone
 		(net "/SWCLK")
 		(layer "F.Cu")
 		(hatch none 0.1)
@@ -70501,6 +70315,45 @@
 				(xy 152.211975 89.225583) (xy 152.309058 89.192682) (xy 152.394485 89.151761) (xy 152.472929 89.103438)
 				(xy 152.627531 88.987065) (xy 152.627552 88.987059) (xy 152.627548 88.987054) (xy 152.840453 88.827446)
 				(xy 152.841391 88.82681) (xy 153.088806 88.676739) (xy 153.097656 88.67538)
+			)
+		)
+	)
+	(zone
+		(net "I2C_SCL(2)")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30005)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 159.03 66.380098) (xy 158.986066 65.401066) (xy 159.072394 65.321616) (xy 159.152031 65.261837)
+				(xy 159.222239 65.22112) (xy 159.289216 65.193128) (xy 159.423629 65.165796) (xy 159.590022 65.163876)
+				(xy 159.813138 65.160263) (xy 159.946507 65.142201) (xy 160.099485 65.104476) (xy 159.863516 64.311484)
+				(xy 159.070524 64.075515) (xy 159.022151 64.294213) (xy 159.009685 64.497981) (xy 159.011123 64.584978)
+				(xy 159.010683 64.731016) (xy 158.986519 64.871446) (xy 158.958268 64.943734) (xy 158.915359 65.019631)
+				(xy 158.854884 65.100808) (xy 158.773934 65.188934) (xy 158.73 65.295) (xy 158.73 66.380098)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 159.03 66.380098) (xy 158.986066 65.401066) (xy 159.072394 65.321616) (xy 159.152031 65.261837)
+				(xy 159.222239 65.22112) (xy 159.289216 65.193128) (xy 159.423629 65.165796) (xy 159.590022 65.163876)
+				(xy 159.813138 65.160263) (xy 159.946507 65.142201) (xy 160.099485 65.104476) (xy 159.863516 64.311484)
+				(xy 159.070524 64.075515) (xy 159.022151 64.294213) (xy 159.009685 64.497981) (xy 159.011123 64.584978)
+				(xy 159.010683 64.731016) (xy 158.986519 64.871446) (xy 158.958268 64.943734) (xy 158.915359 65.019631)
+				(xy 158.854884 65.100808) (xy 158.773934 65.188934) (xy 158.73 65.295) (xy 158.73 66.380098)
 			)
 		)
 	)
@@ -70609,6 +70462,76 @@
 		)
 	)
 	(zone
+		(net "+5V_EXT")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30000)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 122.653973 59.735) (xy 122.922792 59.740137) (xy 123.128008 59.756093) (xy 123.260994 59.776794)
+				(xy 123.382047 59.805104) (xy 123.655596 59.892597) (xy 124.060515 60.024476) (xy 124.304973 59.235)
+				(xy 124.060515 58.445524) (xy 123.655593 58.577404) (xy 123.437308 58.649132) (xy 123.23501 58.698072)
+				(xy 122.992599 58.726077) (xy 122.653973 58.735)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 122.653973 59.735) (xy 122.922792 59.740137) (xy 123.128008 59.756093) (xy 123.260994 59.776794)
+				(xy 123.382047 59.805104) (xy 123.655596 59.892597) (xy 124.060515 60.024476) (xy 124.304973 59.235)
+				(xy 124.060515 58.445524) (xy 123.655593 58.577404) (xy 123.437308 58.649132) (xy 123.23501 58.698072)
+				(xy 122.992599 58.726077) (xy 122.653973 58.735)
+			)
+		)
+	)
+	(zone
+		(net "+5V_EXT")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30003)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 124.8 58.341027) (xy 124.805137 58.072207) (xy 124.821093 57.866991) (xy 124.841794 57.734005)
+				(xy 124.870104 57.612952) (xy 124.957597 57.339402) (xy 125.089476 56.934485) (xy 124.3 56.690027)
+				(xy 123.510524 56.934485) (xy 123.642403 57.339406) (xy 123.714132 57.557691) (xy 123.763072 57.759989)
+				(xy 123.791077 58.0024) (xy 123.8 58.341027)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 124.8 58.341027) (xy 124.805137 58.072207) (xy 124.821093 57.866991) (xy 124.841794 57.734005)
+				(xy 124.870104 57.612952) (xy 124.957597 57.339402) (xy 125.089476 56.934485) (xy 124.3 56.690027)
+				(xy 123.510524 56.934485) (xy 123.642403 57.339406) (xy 123.714132 57.557691) (xy 123.763072 57.759989)
+				(xy 123.791077 58.0024) (xy 123.8 58.341027)
+			)
+		)
+	)
+	(zone
 		(layer "F.Cu")
 		(uuid "e5e76ce9-f4fe-4201-aa23-a07cbf45b678")
 		(name "KEEPOUT")
@@ -70636,6 +70559,41 @@
 		(polygon
 			(pts
 				(xy 136.160802 110.092711) (xy 136.148276 108.376564) (xy 136.546652 108.376564) (xy 136.584287 110.082628)
+			)
+		)
+	)
+	(zone
+		(net "+5V_EXT")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30002)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 123.406027 58.735) (xy 123.137209 58.729863) (xy 122.931993 58.713907) (xy 122.799007 58.693206)
+				(xy 122.677954 58.664896) (xy 122.404406 58.577403) (xy 121.999485 58.445524) (xy 121.755027 59.235)
+				(xy 121.999485 60.024476) (xy 122.404402 59.892597) (xy 122.622689 59.820868) (xy 122.824987 59.771928)
+				(xy 123.067399 59.743923) (xy 123.406027 59.735)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 123.406027 58.735) (xy 123.137209 58.729863) (xy 122.931993 58.713907) (xy 122.799007 58.693206)
+				(xy 122.677954 58.664896) (xy 122.404406 58.577403) (xy 121.999485 58.445524) (xy 121.755027 59.235)
+				(xy 121.999485 60.024476) (xy 122.404402 59.892597) (xy 122.622689 59.820868) (xy 122.824987 59.771928)
+				(xy 123.067399 59.743923) (xy 123.406027 59.735)
 			)
 		)
 	)
