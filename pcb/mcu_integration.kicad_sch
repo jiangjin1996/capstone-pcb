@@ -8570,7 +8570,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32F103RBT7"
+		(property "Value" "STM32F103RBT6"
 			(at 109.22 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8626,7 +8626,7 @@
 				)
 			)
 		)
-		(property "MPN" "STM32F103RBT7"
+		(property "MPN" "STM32F103RBT6"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
